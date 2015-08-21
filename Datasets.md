@@ -19,7 +19,7 @@ Document datasets
 
 The arXiv.org site contains 1M open access papers on various topics in in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics:
 
-[http://arxiv.org/help/bulk_data http://arxiv.org/help/bulk_data]
+* http://arxiv.org/help/bulk_data
 
 
 Social media(-ish)
@@ -27,37 +27,31 @@ Social media(-ish)
 
 The TwiNL project collects Dutch language tweets since december 2010. About 40% of all Dutch tweets are stored. 
 
-[http://145.100.57.140/cgi-bin/twitter http://145.100.57.140/cgi-bin/twitter]
-
-[http://twiqs.nl http://twiqs.nl]
-
+* http://145.100.57.140/cgi-bin/twitter 
+* http://twiqs.nl http://twiqs.nl
 
 The WestburyLAB usenet corpus is a collection of public USENET postings collected between Oct 2005 and Jan 2011, and covers 47,860 English language, non-binary-file news groups:
 
-[http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html]
-
+* http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
 
 Web pages
 ---------
 
 ClueWeb-09 and 12 datasets are part of TREC and contain around 1 billion web pages that can be used to support research on information retrieval and related human language technologies:
 
-[http://www.lemurproject.org/clueweb09/ http://www.lemurproject.org/clueweb09/]
-
-[http://www.lemurproject.org/clueweb12.php/ http://www.lemurproject.org/clueweb12.php/]
-
+* http://www.lemurproject.org/clueweb09/ 
+* http://www.lemurproject.org/clueweb12.php/
 
 Wikipedia provides dumps of their pages:
 
-[https://en.wikipedia.org/wiki/Wikipedia:Database_download https://en.wikipedia.org/wiki/Wikipedia:Database_download]
-
+* https://en.wikipedia.org/wiki/Wikipedia:Database_download 
 
 Reviews
 -------
 
 Amazon product dataset contains 143.7 million product reviews spanning May 1996 - July 2014 and includes product metadata and links: 
 
-[http://jmcauley.ucsd.edu/data/amazon/ http://jmcauley.ucsd.edu/data/amazon/]
+* http://jmcauley.ucsd.edu/data/amazon/
 
 
 Handwriting, OCR, etc.
@@ -65,7 +59,7 @@ Handwriting, OCR, etc.
 
 The MNIST database of handwritten digits:
 
-[http://yann.lecun.com/exdb/mnist/ http://yann.lecun.com/exdb/mnist/]
+* http://yann.lecun.com/exdb/mnist/ 
 
 
 Image datasets
@@ -73,85 +67,65 @@ Image datasets
 
 Image-net is an image database organized according to the [http://wordnet.princeton.edu/ WordNet] hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. It is used in a yearly challenge. The URLs to the images and various meta information is available at: 
 
-[http://www.image-net.org/ http://www.image-net.org/]
-
+* http://www.image-net.org/ http://www.image-net.org/
 
 Yahoo 100M dataset contains a list of URLs (and metadata) to photos and videos on Flickr licensed under one of the Creative Commons copyright licenses:
 
-[http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67 http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67]
+* http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67 http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67
+
+The PEC dataset contains is used for 'event recognition'. It contains 61364 images (11GB) divided into 807 collections, where each collection is a series of images of the same event. For example, they have 60 collections of 
+'birthday' images, where each collection contains about 55 photos of the same birthday party, in the same place, with the same people.
+
+* http://www.vision.ee.ethz.ch/datasets_extra/pec/
+
+The Dresden dataset is used for camera identification. It contains more than 4,000 images of various indoor and outdoor scenes have been acquired under controlled and thus widely comparable conditions from altogether 73 digital 
+cameras. The cameras were drawn from only 25 different models to ensure that device-specific and model-specific characteristics can be disentangled and studied separately.
+
+* http://forensics.inf.tu-dresden.de/publications/Gloe10_DDImgDB.pdf
+* http://forensics.inf.tu-dresden.de/ddimgdb
 
 
 Forensic Data sets.
 -------------------
 
+A large number of forensic data sets can be found online. The most interesting link is:
 
-In the internet there is a large number of forensic data sets:
+* http://forensicswiki.org/wiki/Forensic_corpora
 
-The most interesting link is:
+One interesting catagpry is 'Honeynet Project Scans of the Month', which provides monthly chalenges. Also see the Sleuth Kit's Wiki lists Brian Carrier's responses to those challenges:
 
-http://forensicswiki.org/wiki/Forensic_corpora
+* http://wiki.sleuthkit.org/index.php?title=Case_Studies
 
-In the link above we can find interesting categories:
+Computer Forensic Reference Data Sets project at
 
-* [http://forensicswiki.org/wiki/Forensic_corpora#Disk_Images 1 Disk Images]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Memory_Images 2 Memory Images]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Network_Packets_and_Traces 3 Network Packets and Traces] 
-** [http://forensicswiki.org/wiki/Forensic_corpora#DARPA_ID_Eval 3.1 DARPA ID Eval]
-** [http://forensicswiki.org/wiki/Forensic_corpora#WIDE 3.2 WIDE]
-** [http://forensicswiki.org/wiki/Forensic_corpora#Wireshark 3.3 Wireshark]
-** [http://forensicswiki.org/wiki/Forensic_corpora#NFS_Packets 3.4 NFS Packets]
-** [http://forensicswiki.org/wiki/Forensic_corpora#Other 3.5 Other]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Email_messages 4 Email messages]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Text_Files 5 Text Files] 
-** [http://forensicswiki.org/wiki/Forensic_corpora#Log_files 5.1 Log files]
-** [http://forensicswiki.org/wiki/Forensic_corpora#Text_for_Text_Retrieval 5.2 Text for Text Retrieval]
-** [http://forensicswiki.org/wiki/Forensic_corpora#American_National_Corpus 5.3 American National Corpus]
-** [http://forensicswiki.org/wiki/Forensic_corpora#British_National_Corpus 5.4 British National Corpus]
-** [http://forensicswiki.org/wiki/Forensic_corpora#IEEE_VAST_Challenges 5.5 IEEE VAST Challenges]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Images 6 Images]
-* [http://forensicswiki.org/wiki/Forensic_corpora#Voice 7 Voice] 
-** [http://forensicswiki.org/wiki/Forensic_corpora#CALLFRIEND 7.1 CALLFRIEND]
-** [http://forensicswiki.org/wiki/Forensic_corpora#TalkBank 7.2 TalkBank]
-** [http://forensicswiki.org/wiki/Forensic_corpora#Augmented_Multi-Party_Interaction_Corpus 7.3 Augmented Multi-Party Interaction Corpus]
-** [http://forensicswiki.org/wiki/Forensic_corpora#Other_Corpora 7.4 Other Corpora]
-* [http://forensicswiki.org/wiki/Forensic_corpora#External_Links 8 External Links]
+* http://www.cfreds.nist.gov/
+* http://www.cfreds.nist.gov/Hacking_Case.html 
 
-From the categories above the ones I have checked and found interesting was:
+hosts a few sample cases that may be useful for examiners to practice with.
 
+The Digital Forensic Research Workshop's Rodeos and Challenges released their data and scenario writeups. The following had disk images as parts of their scenario:
 
-Honeynet Project Scans of the Month
-------------------------------------
-
-The Honeynet Project provided network scans in the majority of its Scan of the Month challenges. Some of the challenges provided disk images instead. The Sleuth Kit's Wiki lists Brian Carrier's responses to those challenges.
-
-[http://wiki.sleuthkit.org/index.php?title=Case_Studies http://wiki.sleuthkit.org/index.php?title=Case_Studies]
-
-
-The [http://www.cfreds.nist.gov/ Computer Forensic Reference Data Sets] project from [http://forensicswiki.org/index.php?title=National_Institute_of_Standards_and_Technology&action=edit&redlink=1 NIST] hosts a few sample cases that may be useful for examiners to practice with [http://www.cfreds.nist.gov/Hacking_Case.html http://www.cfreds.nist.gov/Hacking_Case.html]
-
-The Digital Forensic Research Workshop's Rodeos and Challenges
---------------------------------------------------------------
-
-Several of the Rodeos and Challenges from DFRWS released their data and scenario writeups. The following had disk images as parts of their scenario:
-
-* [http://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html 2005 Rodeo] (Hosted on CFReDS)
-* [http://dfrws.org/2008/rodeo.shtml 2008 Rodeo]
-* [http://dfrws.org/2009/rodeo.shtml 2009 Rodeo]
-* [http://dfrws.org/2009/challenge/index.shtml 2009 Challenge]
-* [http://dfrws.org/2011/challenge/index.shtml 2011 Challenge]
+* http://www.cfreds.nist.gov/dfrws/Rhino_Hunt.html
+* http://dfrws.org/2008/rodeo.shtml
+* http://dfrws.org/2009/rodeo.shtml
+* http://dfrws.org/2009/challenge/index.shtml 2009
+* http://dfrws.org/2011/challenge/index.shtml 2011
 
 
 British National Corpus
 -----------------------
 
-The [http://www.natcorp.ox.ac.uk/ British National Corpus (100)] is a 100 million word collection of written and spoken english from a variety of sources. 
+A 100 million word collection of written and spoken english from a variety of sources:
+
+* http://www.natcorp.ox.ac.uk/
 
 
 Augmented Multi-Party Interaction Corpus
 ----------------------------------------
 
-The [http://corpus.amiproject.org/ AMI Meeting Corpus] has 100 hours of meeting recordings. 
+This corpus contains a 100 hours of meeting recordings.
 
+* http://corpus.amiproject.org
 
 Other Corpora
 -------------
