@@ -13,21 +13,13 @@ similarity metrics between documents, and develop (interactive?) visualization t
 
 Reading resources:
 
-* This blog post gives an introduction to what is topic modeling and how it is applied used: [http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/ http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/]
-* This blog post explains topic modeling in some more detail: [http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/ http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/]
-* This blog post talks about Latent Dirichlet Allocation (LDA, the maths behind topic modeling) applied to data from xkcd: [http://cpsievert.github.io/xkcd/ http://cpsievert.github.io/xkcd/]
-* This R tutorial shows one alternative for visualizing topic models: [https://ropensci.org/blog/2014/04/16/topic-modeling-in-R/ https://ropensci.org/blog/2014/04/16/topic-modeling-in-R/]
-* This paper gives a good introduction to the basics of topic modeling: [http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf]
-* This paper discusses the problem of Evaluating topic quality: [http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008665&tag=1 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008665&tag=1] 
-* This paper compares different types of topic models: [http://maroo.cs.umass.edu/pdf/IR-689.pdf http://maroo.cs.umass.edu/pdf/IR-689.pdf]
-
-
-
-
-
-
-
-
+* This blog post gives an introduction to what is topic modeling and how it is applied used: http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
+* This blog post explains topic modeling in some more detail: http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/
+* This blog post talks about Latent Dirichlet Allocation (LDA, the maths behind topic modeling) applied to data from xkcd: http://cpsievert.github.io/xkcd/ 
+* This R tutorial shows one alternative for visualizing topic models: https://ropensci.org/blog/2014/04/16/topic-modeling-in-R/
+* This paper gives a good introduction to the basics of topic modeling: http://www.cs.princeton.edu/~blei/papers/Blei2012.pdf
+* This paper discusses the problem of Evaluating topic quality: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7008665&tag=1 
+* This paper compares different types of topic models: http://maroo.cs.umass.edu/pdf/IR-689.pdf
 
 
 Finding all faces in an image dataset
@@ -35,17 +27,16 @@ Finding all faces in an image dataset
 
 There are several tools around that can find faces in unconstrained images and perform some analysis on them. A fun example by microsoft:
 
-[http://how-old.net/?q=tom+cruise http://how-old.net/?q=tom+cruise]<nowiki>#</nowiki>
+* http://how-old.net/?q=tom+cruise
 
 Some papers on this topic can be found here:
 
-[http://www.openu.ac.il/home/hassner/Adience/publications.html http://www.openu.ac.il/home/hassner/Adience/publications.html]
+* http://www.openu.ac.il/home/hassner/Adience/publications.html
 
-This would allow us to answer questions like ranging from "find all images with people in them" to "find all -unique- people in all images" to "find me all images with adult males". 
+This would allow us to answer questions like ranging from "find all images with people in them" to "find all -unique- people in all images" to "find me all images with adult males". There is also an algorithm in there that does 
+face frontilization:
 
-There is also an algorithm in there that does face frontilization:
-
-[http://www.openu.ac.il/home/hassner/projects/frontalize/ http://www.openu.ac.il/home/hassner/projects/frontalize/]
+* http://www.openu.ac.il/home/hassner/projects/frontalize/
 
 which would give us a series of 'passphoto-like' iimages of all faces found in a dataset. 
 
@@ -61,6 +52,6 @@ steps after the first lose data locality, all data is read at least twice. Sendi
 Hansken integration
 -------------------
 
-The analysis tool created during the Sherlock sprints need to be integrated into Hansken by wrapping them into the right tool API. This may be require a specialized team in one or more sprints ? 
+The analysis tool created during the Sherlock sprints need to be integrated into Hansken by wrapping them into the right tool API. This may be require a specialized team in one or more sprints ?
 
 
