@@ -65,7 +65,7 @@ The MNIST database of handwritten digits:
 Image datasets
 --------------
 
-Image-net is an image database organized according to the [http://wordnet.princeton.edu/ WordNet] hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. It is used in a yearly challenge. The URLs to the images and various meta information is available at: 
+Image-net is an image database organized according to the [WordNet](http://wordnet.princeton.edu/) hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. It is used in a yearly challenge. The URLs to the images and various meta information is available at: 
 
 * http://www.image-net.org/ http://www.image-net.org/
 
@@ -130,11 +130,11 @@ This corpus contains a 100 hours of meeting recordings.
 Other Corpora
 -------------
 
-* Under an NSF grant, Kam Woods and [http://forensicswiki.org/wiki/Simson_Garfinkel Simson Garfinkel] created a website for digital corpora [http://digitalcorpora.org [2]]. The site includes a complete training scenario, including disk images, packet captures and exercises.
+* Under an NSF grant, Kam Woods and [Simson Garfinkel](http://forensicswiki.org/wiki/Simson_Garfinkel) created a website for digital corpora [http://digitalcorpora.org [2]]. The site includes a complete training scenario, including disk images, packet captures and exercises.
 
-* The [http://traces.cs.umass.edu/index.php/Main/HomePage UMass Trace Repository] provides network, storage, and other traces to the research community for analysis. The UMass Trace Repository is supported by grant #CNS-323597 from the National Science Foundation.
+* The [UMass Trace Repository](http://traces.cs.umass.edu/index.php/Main/HomePage) provides network, storage, and other traces to the research community for analysis. The UMass Trace Repository is supported by grant #CNS-323597 from the National Science Foundation.
 
-* UCI's [http://networkdata.ics.uci.edu/resources.php Network Data Repository] provides data sets of a diverse set of networks. Some of the networks are related to computers, some aren't.
+* UCI's [Network Data Repository](http://networkdata.ics.uci.edu/resources.php) provides data sets of a diverse set of networks. Some of the networks are related to computers, some aren't.
 
-* [http://digitalcorpora.org/corp/nps/files/filetypes1/ UT San Antonio Digital Corpora]
+* [UT San Antonio Digital Corpora](http://digitalcorpora.org/corp/nps/files/filetypes1/)
 
