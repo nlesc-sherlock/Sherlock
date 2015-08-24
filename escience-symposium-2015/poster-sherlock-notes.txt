@@ -1,0 +1,37 @@
+Research question
+Project goals
+Deliverables
+Description of tools to be developed or used (intelligible for a broad audience)
+If possible, key achievements
+Last but not least: Why is this eScience, and why is the eScience Center doing this project?
+Project team / Partner logos
+Pictures! (if possible)
+
+
+
+
+Natural language processing
+
+named entity recognition and sentiment analysis help to 
+
+text analysis helps to detect sentiments
+- topic segmentation
+- relationship extraction
+- named entity recognition
+- sentiment analysis
+
+
+Interactive visualization
+
+Visualization of timelines, relationships between events, 
+
+, and the contents of each file is not known beforehand
+
+, the layout of individual files is not known beforehand
+
+requires a flexible, extensible framework
+
+events are visualized on a timeline
+
+visualization helps tohighlight certain aspects of the data
+bring the data back to a managable 
