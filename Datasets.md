@@ -130,7 +130,7 @@ This corpus contains a 100 hours of meeting recordings.
 Other Corpora
 -------------
 
-* Under an NSF grant, Kam Woods and [Simson Garfinkel](http://forensicswiki.org/wiki/Simson_Garfinkel) created a website for digital corpora [http://digitalcorpora.org [2]]. The site includes a complete training scenario, including disk images, packet captures and exercises.
+* Under an NSF grant, Kam Woods and [Simson Garfinkel](http://forensicswiki.org/wiki/Simson_Garfinkel) created a website for digital corpora [http://digitalcorpora.org](http://digitalcorpora.org). The site includes a complete training scenario, including disk images, packet captures and exercises.
 
 * The [UMass Trace Repository](http://traces.cs.umass.edu/index.php/Main/HomePage) provides network, storage, and other traces to the research community for analysis. The UMass Trace Repository is supported by grant #CNS-323597 from the National Science Foundation.
 
