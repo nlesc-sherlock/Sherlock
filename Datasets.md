@@ -71,7 +71,7 @@ Image-net is an image database organized according to the [WordNet](http://wordn
 
 Yahoo 100M dataset contains a list of URLs (and metadata) to photos and videos on Flickr licensed under one of the Creative Commons copyright licenses:
 
-* http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67 http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67
+* [http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67](http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
 
 The PEC dataset contains is used for 'event recognition'. It contains 61364 images (11GB) divided into 807 collections, where each collection is a series of images of the same event. For example, they have 60 collections of 
 'birthday' images, where each collection contains about 55 photos of the same birthday party, in the same place, with the same people.
