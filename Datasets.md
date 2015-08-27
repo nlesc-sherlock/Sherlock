@@ -34,6 +34,10 @@ The WestburyLAB usenet corpus is a collection of public USENET postings collecte
 
 * http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
 
+1 terabyte corpus of Reddit comments from October of 2007 until May of 2015.
+
+* [https://archive.org/details/2015_reddit_comments_corpus](https://archive.org/details/2015_reddit_comments_corpus)
+
 Web pages
 ---------
 
@@ -119,6 +123,12 @@ A 100 million word collection of written and spoken english from a variety of so
 
 * http://www.natcorp.ox.ac.uk/
 
+Contemporary Dutch Corpus (Corpus Hedendaags Nederlands)
+--------------------------------------------------------
+
+Over 800,000 Dutch texts from newspapers, magazines, news broadcasts, and legal material from 1814 until 2013. You need to make a Clarin account to access the corpus. Also, because of license issues, we cannot download the corpus. We are, however, welcome to bring our tools to the INL and try it there.
+
+* [https://portal.clarin.inl.nl/search/page/search](https://portal.clarin.inl.nl/search/page/search)
 
 Augmented Multi-Party Interaction Corpus
 ----------------------------------------
