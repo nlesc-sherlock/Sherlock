@@ -54,4 +54,30 @@ Hansken integration
 
 The analysis tool created during the Sherlock sprints need to be integrated into Hansken by wrapping them into the right tool API. This may be require a specialized team in one or more sprints ?
 
+## Concept search/query expansion/pseudo relevance
 
+Goal: suggest relevant related terms to search queries, e.g. when searching for 'weapon', suggest 'knife', 'gun', etc.
+
+[Wikipedia definition of concept search](https://en.wikipedia.org/wiki/Concept_search) (concept search doesn't seem to be a scientific term, though).
+
+### Papers
+
+* [A Survey of Automatic Query Expansion in Information Retrieval](http://www-labs.iro.umontreal.ca/~nie/IFT6255/carpineto-Survey-QE.pdf) (2012)
+
+## Sentiment Analysis for Dutch
+
+Goal: (semi-)automatic sentiment analysis for Dutch text.
+
+Start with lexicon based approaches and try to move beyond positive/negative/neutral and work with more complex emotion models. 
+
+Problems:
+
+* We need a good (sufficiently large) Dutch corpus (Corpus Hedendaags Nederlands is unavailable for research)
+* We might need annotated data, but it is probably better to try and keep it unsupervised, for example by looking at topic modeling for emotion related terms(?)
+
+### Papers/lexicons
+
+* ["Vreselijk mooi!" (terribly beautiful): A Subjectivity Lexicon for Dutch Adjectives](http://www.clips.ua.ac.be/sites/default/files/desmedt-subjectivity.pdf)
+    * Part of Pattern (Python library)
+* [NRC emotion lexicon](https://github.com/felipebravom/StaticTwitterSent/tree/master/extra/NRC-Emotion-Lexicon-v0.92) (Piek Vossen made a Dutch translation)
+* LIWC (licensed, and Janneke has a license :))

@@ -34,6 +34,10 @@ The WestburyLAB usenet corpus is a collection of public USENET postings collecte
 
 * http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
 
+1 terabyte corpus of Reddit comments from October of 2007 until May of 2015.
+
+* [https://archive.org/details/2015_reddit_comments_corpus](https://archive.org/details/2015_reddit_comments_corpus)
+
 Web pages
 ---------
 
@@ -65,13 +69,13 @@ The MNIST database of handwritten digits:
 Image datasets
 --------------
 
-Image-net is an image database organized according to the [http://wordnet.princeton.edu/ WordNet] hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. It is used in a yearly challenge. The URLs to the images and various meta information is available at: 
+Image-net is an image database organized according to the [WordNet](http://wordnet.princeton.edu/) hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images. It is used in a yearly challenge. The URLs to the images and various meta information is available at: 
 
 * http://www.image-net.org/ http://www.image-net.org/
 
 Yahoo 100M dataset contains a list of URLs (and metadata) to photos and videos on Flickr licensed under one of the Creative Commons copyright licenses:
 
-* http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67 http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67
+* [http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67](http://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
 
 The PEC dataset contains is used for 'event recognition'. It contains 61364 images (11GB) divided into 807 collections, where each collection is a series of images of the same event. For example, they have 60 collections of 
 'birthday' images, where each collection contains about 55 photos of the same birthday party, in the same place, with the same people.
@@ -119,6 +123,12 @@ A 100 million word collection of written and spoken english from a variety of so
 
 * http://www.natcorp.ox.ac.uk/
 
+Contemporary Dutch Corpus (Corpus Hedendaags Nederlands)
+--------------------------------------------------------
+
+Over 800,000 Dutch texts from newspapers, magazines, news broadcasts, and legal material from 1814 until 2013. You need to make a Clarin account to access the corpus. Also, because of license issues, we cannot download the corpus. We are, however, welcome to bring our tools to the INL and try it there.
+
+* [https://portal.clarin.inl.nl/search/page/search](https://portal.clarin.inl.nl/search/page/search)
 
 Augmented Multi-Party Interaction Corpus
 ----------------------------------------
@@ -130,11 +140,11 @@ This corpus contains a 100 hours of meeting recordings.
 Other Corpora
 -------------
 
-* Under an NSF grant, Kam Woods and [http://forensicswiki.org/wiki/Simson_Garfinkel Simson Garfinkel] created a website for digital corpora [http://digitalcorpora.org [2]]. The site includes a complete training scenario, including disk images, packet captures and exercises.
+* Under an NSF grant, Kam Woods and [Simson Garfinkel](http://forensicswiki.org/wiki/Simson_Garfinkel) created a website for digital corpora [http://digitalcorpora.org](http://digitalcorpora.org). The site includes a complete training scenario, including disk images, packet captures and exercises.
 
-* The [http://traces.cs.umass.edu/index.php/Main/HomePage UMass Trace Repository] provides network, storage, and other traces to the research community for analysis. The UMass Trace Repository is supported by grant #CNS-323597 from the National Science Foundation.
+* The [UMass Trace Repository](http://traces.cs.umass.edu/index.php/Main/HomePage) provides network, storage, and other traces to the research community for analysis. The UMass Trace Repository is supported by grant #CNS-323597 from the National Science Foundation.
 
-* UCI's [http://networkdata.ics.uci.edu/resources.php Network Data Repository] provides data sets of a diverse set of networks. Some of the networks are related to computers, some aren't.
+* UCI's [Network Data Repository](http://networkdata.ics.uci.edu/resources.php) provides data sets of a diverse set of networks. Some of the networks are related to computers, some aren't.
 
-* [http://digitalcorpora.org/corp/nps/files/filetypes1/ UT San Antonio Digital Corpora]
+* [UT San Antonio Digital Corpora](http://digitalcorpora.org/corp/nps/files/filetypes1/)
 
