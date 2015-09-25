@@ -25,6 +25,8 @@
        - google survey ?
    - divide rooms/desks 
  
+* Set dates for Sherlock follow up project at end of Sherlock ?
+
 
    
    
