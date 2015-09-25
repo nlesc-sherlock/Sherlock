@@ -28,7 +28,7 @@ results to the user in a meaningful way is another challenge that is part of
 this subproject. A possibility would be to visualize suggestions in a word
 co-occurence network.
 
-
+![example visualization of word co-occurnce network](https://github.com/NLeSC/Sherlock/blob/master/topics/concept_search/images/word_co-occurrence_network.jpg)
 
 (Picture taken from https://www.pnas.org/content/112/35/10837.full)
 
