@@ -1,6 +1,6 @@
 # Sprint 1 Agenda (tentative)
 
-## Day 1 (Oktober 20)
+## Day 1 - October 20
 
 - 9:00 Wakeup with coffee and cake!
 - 9:30 Presentation of NFI on digital Forensics with Hansken (tentative)
@@ -10,7 +10,7 @@
 - 17:00 End of day report of team progress
 - 17:30 Closing
 
-## Day 2 (Oktober 21)
+## Day 2 - October 21
 
 - 9:00 Wakeup with coffee and cake!
 - 9:30 15 minute standup by team leaders
@@ -19,7 +19,7 @@
 - 17:00 End of day report of team progress
 - 17:30 Closing
 
-## Day 2 (Oktober 22)
+## Day 2 - October 22
 
 - 9:00 Wakeup with coffee and cake!
 - 9:30 15 minute standup by team leaders

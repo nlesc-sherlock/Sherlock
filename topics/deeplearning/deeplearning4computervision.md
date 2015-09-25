@@ -6,7 +6,7 @@ Deep Machine Learning has been declared the new frontier in artificial intellige
 The Convolutional Neural Networks (CNN) are a type of deep learning networks, [Y. Bengio, "Learning deep archiechures for AI"](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf). CNNs are a family of multi-layer neural networks particularly designed for use on two-dimensional data, such as images. For a quick introduction to CNNs, please refer to section 2.3 of the [“Large-scale Computer Vision” overview](https://nlesc.sharepoint.com/sites/mlpr/Shared%20Documents/overview.pdf). For a more elaborate introduction, please refer to the online book [“Neural Networks and Deep Learning”](http://neuralnetworksanddeeplearning.com/index.html) and to the vast resources on [deeplearning.net](http://deaplearning.net). 
 
 ## Sherlock
-In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. For a flavor of what CNNs can achieve in image classification, try this very interesting [online demo](http://demo.caffe.berkeleyvision.org/). 
+In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. For a flavor of what CNNs can achieve in image classification, try this very interesting Berkeley Vision lab [online demo](http://demo.caffe.berkeleyvision.org/). 
 
 The first sprint of project Sherlock has the follwoing goals:
 
@@ -40,12 +40,13 @@ We will try to achieve the goals following number of steps (*steps in italic are
 8.	Software in git and lessons learned report.
 
 ## Startup guide
-To prepare for the sprint, please follow the preparation steps in the [startup guide](link).
+To prepare for the sprint, please follow the preparation steps in the [startup guide](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/startupguide.md).
 
-## References
+<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
+
+### References
+All the papers listed below are available also at [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FPapers).
 *   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
 *   Y. Bengio, "Learning deep archiechures for AI," Foundations and Trends Machine Learning, vol. 2, no. 1, pp. 1-127, 2009. 
 * 	L. Yang, P. Luo, C. C. Loy and X. Tang, "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification", in Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 *	G. Levi and T. Hassner, "Age and Gender Classification using Convolutional Neural Networks", in IEEE Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
-
-<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.

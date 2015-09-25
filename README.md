@@ -24,7 +24,7 @@ The Sherlock teams will work on the following topics:
 
 All sprints will consists of three consecutive days (Tuesday to Thurday). The dates are:
 
-- 20-22 October        
+- 20-22 October [(agenda)](https://github.com/NLeSC/Sherlock/blob/master/organization/agenda.md)        
 - 1-3 December         
 - 12-14 Januari          
 - 16-18 Februari       
