@@ -10,7 +10,7 @@ In the context of project Sherlock we look at some of the questions asked by the
 
 The first sprint of project Sherlock has the follwoing goals:
 
-1.	Learn <sup>[1](#footnote1)</sup> about deep learning and CNNs and their application in CV tasks
+1.	Learn <sup>[$](#footnote1)</sup> about deep learning and CNNs and their application in CV tasks
 2.	Verify weather CNNs are suitable for CV tasks found in digital forensics
 
 ## Use cases
@@ -42,7 +42,7 @@ We will try to achieve the goals following number of steps (*steps in italic are
 ## Startup guide
 To prepare for the sprint, please follow the preparation steps in the [startup guide](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/startupguide.md).
 
-<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
+<a name="footnote1">$</a>: Team leader also needs to learn the theory and tools.
 
 ### References
 All the papers listed below are available also at [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FPapers).
