@@ -1,7 +1,7 @@
 Tools and Data Integration (TDI)
 ================
 
-One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups ? How do we efficiently access data stored in different formats (possibly in a distributed setting) ? How do we combine this data into a single result ? How do we integrate everything into the existing NFI workflow ? How do we execute this workflow efficiently ?
+One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups? How do we efficiently access data stored in different formats (possibly in a distributed setting)? How do we combine this data into a single result? How do we integrate everything into the existing NFI workflow? How do we execute this workflow efficiently?
 
 The goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. At the same time, we will do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves performance. 
 
