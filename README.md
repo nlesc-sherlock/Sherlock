@@ -1,11 +1,14 @@
 # Sherlock
 
-Sherlock is an NLeSC-wide project with the following goals:
+Sherlock is an NLeSC-wide project in which all eScience Research engineers of the NLeSC work together. The goals of Sherlock are:
 
   - Team building: get to know your (new) colleagues, their interests, skills, knowledge, etc.
   - Knowledge sharing & development: learn from each other and collectively learn new skills.
-  - Boost the parent project: give a project access to the skills and knowledge 30 engineers instead of 2.
   - eStep: producing generic tools, knowledge and research for eStep.
+  - Boost the parent project: give a project access to the skills and knowledge 30 engineers.
+
+For Sherlock the parent project is [A Jungle Computing Approach to Large Scale Online Forensic Analyis](https://www.esciencecenter.nl/project/a-jungle-computing-approach-to-large-scale-online-forensic-analysis), a cooperation with the [NFI](http://www.nederlandsforensischinstituut.nl/) and the HPDC group at 
+[VU University](http://www.cs.vu.nl/en/research/computer-systems/hpdc/).
 
 
 ## Team Topics
