@@ -16,6 +16,9 @@ All sprints will consists of three consecutive days (Tuesday to Thurday). The da
 - 12-14 Januari          
 - 16-18 Februari       
 
+Note that some of the teams may need to plan a preparation session _before_ the first sprint, e.g., to arrange access to certain hardware or datasets. 
+
+
 ## Team Topics
 
 The Sherlock teams will work on the following topics:
