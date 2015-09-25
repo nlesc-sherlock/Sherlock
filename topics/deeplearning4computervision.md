@@ -31,13 +31,13 @@ A diverse image **dataset** of photos of persons under very  challenging conditi
 We will try to achieve the goals following number of steps (subject to team discussion, *these steps are considered if time permits*):
 
 1.	Learning about basics of Deep learning and CNNs
-2.	Follow tutorial(s) on deep leaning for image classification using Caffe. Caffe is a deep learning framework developed by the Berkeley Vision and Learning Center.
-3.	Use CNNs pre-trained on [ImageNet](http://www.image-net.org/) and fine-tuned on car and person’s datasets (available at [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)) to get classification results as reported in the papers.
+2.	Follow tutorial(s) on deep leaning for image classification using [Caffe](http://caffe.berkeleyvision.org/). Caffe is a deep learning framework developed by the Berkeley Vision and Learning Center.
+3.	Use CNNs pre-trained on [ImageNet](http://www.image-net.org/) and fine-tuned on car and person’s datasets (available at [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo) ) to get classification results as reported in the papers.
 4.	Learn about fine-tuning pertained CNNs for a specific CV task. 
 5.	Learn about training CNNs. 
-*6.	Learn about using Keras with Caffe models*
-*7.	Designing CNNs architectures*
-8.	Software in git and lessons learned report
+6.	*Learn about using Keras with Caffe models.*
+7.	*Designing CNNs architectures.*
+8.	Software in git and lessons learned report.
 
 
 ## References
