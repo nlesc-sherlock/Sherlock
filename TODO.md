@@ -1,4 +1,4 @@
-#Logistics
+# Logistics
 
 * [X] Create main page for Sherlock github
 
@@ -30,8 +30,13 @@
  
 * [ ] Set dates for Sherlock follow up project at end of Sherlock ?
 
+# Preprocessed data 
 
-   
+* [ ] provide output of test run of Hansken to some teams
+
+# Source code
+
+* [ ] provide 'hansken-lite' to integration team ?
    
 
 
