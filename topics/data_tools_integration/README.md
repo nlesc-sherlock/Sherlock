@@ -3,9 +3,11 @@ Tools and Data Integration (TDI)
 
 One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups? How do we efficiently access data stored in different formats (possibly in a distributed setting)? How do we combine this data into a single result? How do we integrate everything into the existing NFI workflow? How do we execute this workflow efficiently?
 
-The goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. At the same time, we will do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves performance. 
+The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system (Target 1 and Target 2). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance (Target 3). 
 
-Setup
+Any documentation which cannot be made public available on gitHub it will be placed at the [Sherlock one drive's tool and data integration directory](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/tool%20and%20data%20integration).
+
+[Setup](#setup)
 -----
 
 The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [DAS-4 Hadoop Cluster](http://www.cs.vu.nl/das4/hadoop.shtml). [DAS-4 user accounts](http://www.cs.vu.nl/das4/accounts.shtml) are requested by Jason. The cluster is small, but it offers the perfect environment for our project since it is easy to request access and it is not an overloaded cluster. For large scale experiments and to run our final outcome we will use the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account with SurfSARA](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
@@ -31,7 +33,7 @@ Another goal of this team is to develop knowledge and techniques on assembling h
 Target 3
 --------
 
-The Hadoop based system used by the NFI, Hansken processing pipeline, is based on map-reduce and requires several iterations (typically 3 or 4) to fully analyze a set of files, such as a disk image. An initial performance profile done by Jason indicates there are few aspects for be improved: 
+The Hadoop based system used by the NFI, in Hansken processing pipeline (see [Figure 2](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/digital%20forensics/DigitalInvestigation-Hansken.pdf#page=11)), is based on map-reduce and requires several iterations (typically 3 or 4) to fully analyze a set of files, such as a disk image. An initial performance profile done by Jason indicates there are few aspects for be improved: 
 * startup time per iteration is high
 * load balancing issue related with skewness on tasks execution
 * lost of data locality between tasks
