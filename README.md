@@ -20,7 +20,7 @@ The Sherlock teams will work on the following topics:
 - [Concept search](https://github.com/NLeSC/Sherlock/blob/master/topics/concept_search/README.md)
 - [Deep learning for computer vision](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/deeplearning4computervision.md)
 - [Visualization of timelines](https://github.com/NLeSC/Sherlock/blob/master/topics/timeline-visualization.md)
-- [Cluster analysis]()
+- [Cluster analysis](https://github.com/NLeSC/Sherlock/blob/master/topics/concept_search/README.md)
 - [Tool and data integration](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/README.md)
 
 
