@@ -10,6 +10,7 @@ Examples of interesting data sets include (see [here](https://github.com/NLeSC/S
 - the Enron data set;
 - Twitter
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
+- in principle, any data set that has time annotations is interesting
 
 Possible things you can work on:
 - Graphical querying, using the interface to (implicitly) make selections 
