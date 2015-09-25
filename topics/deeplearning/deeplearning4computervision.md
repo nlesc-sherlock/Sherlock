@@ -45,6 +45,7 @@ To prepare for the sprint, please follow the preparation steps in the [startup g
 <a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
 
 ### References
+All the papers listed below are available also at [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FPapers).
 *   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
 *   Y. Bengio, "Learning deep archiechures for AI," Foundations and Trends Machine Learning, vol. 2, no. 1, pp. 1-127, 2009. 
 * 	L. Yang, P. Luo, C. C. Loy and X. Tang, "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification", in Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
