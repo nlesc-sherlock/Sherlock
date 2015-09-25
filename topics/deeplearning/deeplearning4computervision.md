@@ -10,7 +10,7 @@ In the context of project Sherlock we look at some of the questions asked by the
 
 The first sprint of project Sherlock has the follwoing goals:
 
-1.	Learn  about deep learning and CNNs and their application in CV tasks
+1.	Learn <sup>[1](#footnote1)</sup> about deep learning and CNNs and their application in CV tasks
 2.	Verify weather CNNs are suitable for CV tasks found in digital forensics
 
 ## Use cases
@@ -48,3 +48,4 @@ To prepare for the sprint, please follow the preparation steps in the [startup g
 * 	L. Yang, P. Luo, C. C. Loy and X. Tang, "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification", in Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 *	G. Levi and T. Hassner, "Age and Gender Classification using Convolutional Neural Networks", in IEEE Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 
+<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
