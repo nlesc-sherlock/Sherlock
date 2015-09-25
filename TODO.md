@@ -7,7 +7,20 @@
    
 * DAS - creeate accounts for people
   
-  
+* Planning of sprint 
+   - agenda 
+   - lunch (diy like thursday) 
+   - on thursday cake by Janneke
+   - diner on last day + drinks
+
+ 
+   
+   
+
+
+   
+
+
   
   
   
