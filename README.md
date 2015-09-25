@@ -8,8 +8,9 @@ Sherlock is an NLeSC-wide project in which all eScience Research engineers of th
   - Boost the parent project: give a project access to the skills and knowledge 30 engineers.
 
 For Sherlock the parent project is [A Jungle Computing Approach to Large Scale Online Forensic Analyis](https://www.esciencecenter.nl/project/a-jungle-computing-approach-to-large-scale-online-forensic-analysis), a cooperation with the [NFI](http://www.nederlandsforensischinstituut.nl/) and the HPDC group at 
-[VU University](http://www.cs.vu.nl/en/research/computer-systems/hpdc/).
+[VU University](http://www.cs.vu.nl/en/research/computer-systems/hpdc/). 
 
+Sherlock is about [Digital Forensics](https://en.wikipedia.org/wiki/Digital_forensics), more specifically about find digital evidence in large amounts of data. Find such evidence requires analyis of large amounts of text and multimedia data and means of clustering, visualising and searching through the results. 
 
 ## Team Topics
 
