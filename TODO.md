@@ -7,9 +7,9 @@
    - [ ] Option 2: have subdirs + branches for all teams. Can do a merge afterward 
    - [ ] Option 3: have separate repros for all teams ?
    
-* [ ] Data location: Use Onedrive - Each team leader should have 1TB
+* [X] Data location: Use Onedrive - Each team leader should have 1TB
 
-* [ ] Document location: Share papers/presentations in Sherlock group on OneDrive
+* [X] Document location: Share papers/presentations in Sherlock group on OneDrive
    
 * [ ] DAS - create accounts for people
    - [ ] arrange account ahead of time - account for everyone ?   
@@ -18,7 +18,7 @@
 * [ ] Planning of sprint 
    - [ ] agenda 
       - [ ] talk by NFI ? 
-   - [ ] lunch (diy like thursday) 
+   - [ ] lunch (diy lunch like thursday) 
    - [ ] on thursday cake by Janneke
    - [ ] diner on last day + drinks
 
