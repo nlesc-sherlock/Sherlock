@@ -8,7 +8,7 @@ The Convolutional Neural Networks (CNN) are a type of deep learning networks, [Y
 ## Sherlock
 In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. For a flavor of what CNNs can achieve in image classification, try this very interesting [online demo](http://demo.caffe.berkeleyvision.org/). 
 
-## Targets
+The first sprint of project Sherlock has the follwoing goals:
 
 1.	Learn  about deep learning and CNNs and their application in CV tasks
 2.	Verify weather CNNs are suitable for CV tasks found in digital forensics
@@ -39,6 +39,8 @@ We will try to achieve the goals following number of steps (subject to team disc
 7.	*Designing CNNs architectures.*
 8.	Software in git and lessons learned report.
 
+## Startup guide
+To prepare for the sprint, please follow the preparation steps in the [startup guide](link).
 
 ## References
 *   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
