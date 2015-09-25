@@ -17,7 +17,7 @@ Sherlock is about [Digital Forensics](https://en.wikipedia.org/wiki/Digital_fore
 The Sherlock teams will work on the following topics:
 
 - [Analyzing large document collections](https://github.com/NLeSC/Sherlock/blob/master/topics/analyzing_document_collections/analyzing_large_document_collections.md)
-- [Concept search](https://github.com/NLeSC/Sherlock/blob/master/topics/concept_search.md)
+- [Concept search](https://github.com/NLeSC/Sherlock/blob/master/topics/concept_search/README.md)
 - [Deep learning for computer vision](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/deeplearning4computervision.md)
 - [Visualization of timelines](https://github.com/NLeSC/Sherlock/blob/master/topics/timeline-visualization.md)
 - [Cluster analysis]()
