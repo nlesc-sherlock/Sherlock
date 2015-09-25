@@ -42,10 +42,10 @@ We will try to achieve the goals following number of steps (*steps in italic are
 ## Startup guide
 To prepare for the sprint, please follow the preparation steps in the [startup guide](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/startupguide.md).
 
-## References
+<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
+
+### References
 *   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
 *   Y. Bengio, "Learning deep archiechures for AI," Foundations and Trends Machine Learning, vol. 2, no. 1, pp. 1-127, 2009. 
 * 	L. Yang, P. Luo, C. C. Loy and X. Tang, "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification", in Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 *	G. Levi and T. Hassner, "Age and Gender Classification using Convolutional Neural Networks", in IEEE Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
-
-<a name="footnote1">1</a>: Team leader also needs to learn the theory and tools.
