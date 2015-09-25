@@ -6,7 +6,7 @@ This group will focus on the visualization of such timebound information. The ge
 
 Regarding the technological side of things, we will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). 
 
-Examples of interesting data sets include (see [here](here) for a more complete overview):
+Examples of interesting data sets include (see [here](https://github.com/NLeSC/Sherlock/blob/master/Datasets.md) for a more complete overview):
 - the Enron data set;
 - Twitter
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
