@@ -8,13 +8,13 @@ The goal of this team is to develop knowledge and techniques on assembling heter
 First Step
 ----------
 
-The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following <Alias href="https://userinfo.surfsara.nl/systems/hadoop/software">. For that we need to (setup an account at DAS)[https://userinfo.surfsara.nl/systems/hadoop/obtaining-account].
+The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account at DAS](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
 
 
 Second Step
 -----------
 
-Once you have an account, it is time to get your Linux/Mac machine ready to (access the cluster and submit jobs)[https://userinfo.surfsara.nl/systems/hadoop/usage]. Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
+Once you have an account, it is time to get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
 Third Step
@@ -26,7 +26,7 @@ One of the goals is to integrate the tools used and created by the other teams i
 Fourth Step
 -----------
 
-Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as (Apache Thrift)[http://thrift.apache.org/]), interchange formats (such as (Protocol Buffers)[https://developers.google.com/protocol-buffers/?hl=en]), messaging systems (such as (ZeroMQ)[http://zeromq.org/]) applications containers (such as (Docker)[https://www.docker.com/whatisdocker], few (NLeSC examples)[https://hub.docker.com/u/nlesc/]), etc. 
+Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/)), etc. 
 
 
 Fifth Step
@@ -38,9 +38,9 @@ The Hadoop based system used by the NFI, Hansken processing pipeline, is based o
 * lost of data locality between tasks
 * several reads of the same files
 
-Hence, we have decided to explore a different model, (Spark)[http://spark.apache.org/] and investigate how Yarn capacity scheduler works. 
+Hence, we have decided to explore a different model, [Spark](http://spark.apache.org/) and investigate how Yarn capacity scheduler works. 
 
-* Spark: the [Spark documentation](http://spark.apache.org/documentation.html) contains nice screen cast tutorial videos for your [first steps with Spark](http://spark.apache.org/screencasts/1-first-steps-with-spark.html) or how to setup a [stand alone job in Scala](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html), but also [examples](http://spark.apache.org/examples.html). There are third party globs which my also help you in (creating a simple spark job)[https://hadoopi.wordpress.com/2014/09/05/spark-create-a-simple-spark-job/] or determine (correlation on two vectors)[http://blog.sequenceiq.com/blog/2014/09/29/spark-correlation-and-testing/] or (K-Means)[http://blog.sequenceiq.com/blog/2014/07/31/spark-mllib/]. Note that Spark is one of (SurfSara components)[https://userinfo.surfsara.nl/systems/hadoop/software/spark].
+* Spark: the [Spark documentation](http://spark.apache.org/documentation.html) contains nice screen cast tutorial videos for your [first steps with Spark](http://spark.apache.org/screencasts/1-first-steps-with-spark.html) or how to setup a [stand alone job in Scala](http://spark.apache.org/screencasts/4-a-standalone-job-in-spark.html), but also [examples](http://spark.apache.org/examples.html). There are third party globs which my also help you in [creating a simple spark job](https://hadoopi.wordpress.com/2014/09/05/spark-create-a-simple-spark-job/) or determine [correlation on two vectors](http://blog.sequenceiq.com/blog/2014/09/29/spark-correlation-and-testing/) or [K-Means](http://blog.sequenceiq.com/blog/2014/07/31/spark-mllib/). Note that Spark is one of [SurfSara components](https://userinfo.surfsara.nl/systems/hadoop/software/spark).
 
-* Yarn capacity scheduler: The (Capacity Scheduler)[https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/CapacityScheduler.html] is designed to run Hadoop applications as a shared, multi-tenant cluster in an operator-friendly manner while maximizing the throughput and the utilization of the cluster. Through different queue setups we should be able to understand how (Yarn capacity scheduler)[http://blog.sequenceiq.com/blog/2014/03/14/yarn-capacity-scheduler/] works.
+* Yarn capacity scheduler: The [Capacity Scheduler](https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/CapacityScheduler.html) is designed to run Hadoop applications as a shared, multi-tenant cluster in an operator-friendly manner while maximizing the throughput and the utilization of the cluster. Through different queue setups we should be able to understand how [Yarn capacity scheduler](http://blog.sequenceiq.com/blog/2014/03/14/yarn-capacity-scheduler/) works.
  
