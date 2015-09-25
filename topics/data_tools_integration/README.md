@@ -5,32 +5,32 @@ One of the challenges we face at the NLeSC is the large and heterogeneous collec
 
 The goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. At the same time, we will do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves performance. 
 
-First Step
-----------
+Setup
+-----
 
 The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account at DAS](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
 
 
-Second Step
------------
-
 Once you have an account, it is time to get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
-Third Step
-----------
+
+Target 1
+--------
 
 One of the goals is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. For that we will explore a solution which allows us to to run third party tools as User Defined Functions we will use/explore SCAPE Tool-to-MapReduce Wrapper (ToMaR). It is developed at the university of Vienna and we met one of the authors at IEEE eScience Conference poster session. For more info you should read the [project description](https://github.com/openpreserve/ToMaR#about), but also the [installation and use](https://github.com/openpreserve/ToMaR#installation-and-use) section to know the pre-requisites before using it.
 
 
-Fourth Step
------------
 
-Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/)), etc. 
+Target 2
+--------
+
+Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/) and [docker tooling]()), etc. 
 
 
-Fifth Step
-----------
+
+Target 3
+--------
 
 The Hadoop based system used by the NFI, Hansken processing pipeline, is based on map-reduce and requires several iterations (typically 3 or 4) to fully analyze a set of files, such as a disk image. An initial performance profile done by Jason indicates there are few aspects for be improved: 
 * startup time per iteration is high
