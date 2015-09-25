@@ -3,11 +3,11 @@ Tools and Data Integration (TDI)
 
 One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups? How do we efficiently access data stored in different formats (possibly in a distributed setting)? How do we combine this data into a single result? How do we integrate everything into the existing NFI workflow? How do we execute this workflow efficiently?
 
-The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Target 1](#target_1) and Target 2). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance (Target 3). 
+The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Target 1](#target-1) and [Target 2](#target-2)). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance ([Target 3](#target-3)). 
 
 Any documentation which cannot be made public available on gitHub it will be placed at the [Sherlock one drive's tool and data integration directory](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/tool%20and%20data%20integration).
 
-[Setup](#setup)
+Setup
 -----
 
 The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [DAS-4 Hadoop Cluster](http://www.cs.vu.nl/das4/hadoop.shtml). [DAS-4 user accounts](http://www.cs.vu.nl/das4/accounts.shtml) are requested by Jason. The cluster is small, but it offers the perfect environment for our project since it is easy to request access and it is not an overloaded cluster. For large scale experiments and to run our final outcome we will use the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account with SurfSARA](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
@@ -17,7 +17,7 @@ Here are the steps to get you up and running:
 * SurfSARA Hadoop cluster: once you have an account, get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
-[Target 1](#target_1)
+Target 1
 --------
 
 One of the goals is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. For that we will explore a solution which allows us to to run third party tools as User Defined Functions we will use/explore SCAPE Tool-to-MapReduce Wrapper (ToMaR). It is developed at the university of Vienna and we met one of the authors at IEEE eScience Conference poster session. For more info you should read the [project description](https://github.com/openpreserve/ToMaR#about), but also the [installation and use](https://github.com/openpreserve/ToMaR#installation-and-use) section to know the pre-requisites before using it.
