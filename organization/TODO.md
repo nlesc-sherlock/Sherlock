@@ -32,6 +32,7 @@
 
 # Preprocessed data 
 
+* [ ] provide few test traces of Hansken to some teams
 * [ ] provide output of test run of Hansken to some teams
 
 # Source code
