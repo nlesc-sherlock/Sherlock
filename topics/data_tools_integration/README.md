@@ -8,11 +8,11 @@ The goal of this team is to develop knowledge and techniques on assembling heter
 Setup
 -----
 
-The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account at DAS](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
+The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [DAS-4 Hadoop Cluster](http://www.cs.vu.nl/das4/hadoop.shtml). [DAS-4 user accounts](http://www.cs.vu.nl/das4/accounts.shtml) are requested by Jason. The cluster is small, but it offers the perfect environment for our project since it is easy to request access and it is not an overloaded cluster. For large scale experiments and to run our final outcome we will use the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following [components](https://userinfo.surfsara.nl/systems/hadoop/software). For that we need to [setup an account with SurfSARA](https://userinfo.surfsara.nl/systems/hadoop/obtaining-account).
 
-
-Once you have an account, it is time to get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
-
+Here are the steps to get you up and running:
+* DAS-4 Hadoop cluster: before you submit a job read the [DAS-4 Usage Policy](http://www.cs.vu.nl/das4/usage.shtml) and [Job Execution](http://www.cs.vu.nl/das4/jobs.shtml) to learn how to submit a job. More info is under [setup directory](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/setup). 
+* SurfSARA Hadoop cluster: once you have an account, get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
 Target 1
@@ -21,11 +21,10 @@ Target 1
 One of the goals is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. For that we will explore a solution which allows us to to run third party tools as User Defined Functions we will use/explore SCAPE Tool-to-MapReduce Wrapper (ToMaR). It is developed at the university of Vienna and we met one of the authors at IEEE eScience Conference poster session. For more info you should read the [project description](https://github.com/openpreserve/ToMaR#about), but also the [installation and use](https://github.com/openpreserve/ToMaR#installation-and-use) section to know the pre-requisites before using it.
 
 
-
 Target 2
 --------
 
-Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/) and [docker tooling]()), etc. 
+Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/) and [docker tooling](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/docker-tooling.md)), etc. 
 
 
 
