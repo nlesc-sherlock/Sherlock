@@ -8,7 +8,7 @@ The goal of this team is to develop knowledge and techniques on assembling heter
 First Step
 ----------
 
-The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following (components)[https://userinfo.surfsara.nl/systems/hadoop/software]. At SurfSara`s Hadoop cluster ther, the For that we need to (setup an account at DAS)[https://userinfo.surfsara.nl/systems/hadoop/obtaining-account].
+The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following (components)[https://userinfo.surfsara.nl/systems/hadoop/software]. For that we need to (setup an account at DAS)[https://userinfo.surfsara.nl/systems/hadoop/obtaining-account].
 
 
 Second Step
@@ -20,4 +20,4 @@ Once you have an account, it is time to get your Linux/Mac machine ready to (acc
 Third Step
 ----------
 
-The goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For that we will explore a solution which allows us to to run third party tools as User Defined Functions we will use/explore SCAPE Tool-to-MapReduce Wrapper (ToMaR). It is developed at the university of Vienna and we met one of the authors at IEEE eScience Conference poster session. For more info you should read the [project description](https://github.com/openpreserve/ToMaR#about), but also the [installation and use](https://github.com/openpreserve/ToMaR#installation-and-use) section to know the pre-requesites before using it.
+The goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system. For that we will explore a solution which allows us to to run third party tools as User Defined Functions we will use/explore SCAPE Tool-to-MapReduce Wrapper (ToMaR). It is developed at the university of Vienna and we met one of the authors at IEEE eScience Conference poster session. For more info you should read the [project description](https://github.com/openpreserve/ToMaR#about), but also the [installation and use](https://github.com/openpreserve/ToMaR#installation-and-use) section to know the pre-requisites before using it.
