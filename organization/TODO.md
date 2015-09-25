@@ -16,7 +16,7 @@
    - [ ] how to use DAS document
   
 * [ ] Planning of sprint 
-   - [ ] agenda 
+   - [X] agenda 
       - [ ] talk by NFI ? 
    - [ ] lunch (diy lunch like thursday) 
    - [ ] on thursday cake by Janneke
