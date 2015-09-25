@@ -44,6 +44,8 @@ based on word co-occurences (so, data-driven), for example:
 * Topic modeling
 * Deep learning
 * Probabilistic approaches
+* [Elasticsearch significant terms aggregation](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket-significantterms-aggregation.html)
+* [Parsimonious Language Modeling](https://github.com/larsmans/weighwords)
 * ...
 
 ## Software
@@ -64,6 +66,10 @@ In _Introduction to Information Retrieval_. Cambridge: Cambridge University Pres
 * Query Expansion Using Topic Modeling
 * Deep learning
 * Mehta, V.; Caceres, R.S.; Carter, K.M., Evaluating topic quality using model clustering, in _2014 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)_, pp.178-185, 2014
+* Hiemstra, D., Robertson, S., and Zaragoza, H. [Parsimonious language models for
+information retrieval](http://eprints.eemcs.utwente.nl/7256/01/p178-hiemstra.pdf).
+In _Proceedings of the 27th annual international ACM SIGIR conference on Research
+and development in information retrieval_. ACM, 2004.
 
 ## Data
 
