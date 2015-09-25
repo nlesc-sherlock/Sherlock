@@ -40,7 +40,7 @@ We will try to achieve the goals following number of steps (*steps in italic are
 8.	Software in git and lessons learned report.
 
 ## Startup guide
-To prepare for the sprint, please follow the preparation steps in the [startup guide](link).
+To prepare for the sprint, please follow the preparation steps in the [startup guide](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/startupguide.md).
 
 ## References
 *   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
