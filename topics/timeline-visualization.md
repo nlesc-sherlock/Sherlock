@@ -8,7 +8,7 @@ Regarding the technological side of things, we will likely use JavaScript based 
 
 Examples of interesting data sets include (see [here](https://github.com/NLeSC/Sherlock/blob/master/Datasets.md) for a more complete overview):
 - the Enron data set;
-- Twitter
+- Twitter, maybe [this](http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/) and [this](http://www.crummy.com/software/BeautifulSoup/) could be good starting points
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
 - in principle, any data set that has time annotations is interesting
 
