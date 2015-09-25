@@ -1,13 +1,14 @@
 #Deep learning for computer vision tasks
 
-Deep Machine Learning has been declared the new frontier in artificial intelligence research in 2010, [I. Arel et al, "Research frontier: Deep machine learning- a new frontier in artificial intelligence research "](http://web.eecs.utk.edu/~itamar/Papers/CIM2010.pdf).
+Deep Machine Learning has been declared the new frontier in artificial intelligence research in 2010, [I. Arel et al, "Research frontier: Deep machine learning- a new frontier in artificial intelligence research "](http://web.eecs.utk.edu/~itamar/Papers/CIM2010.pdf). It is important that in NLeSc we have knowledge and experience with the latest research in data analytics, where deep learning is currently the trend. 
 
 ## Convolutional Neural Networks
 The Convolutional Neural Networks (CNN) are a type of deep learning networks, [Y. Bengio, "Learning deep archiechures for AI"](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf). CNNs are a family of multi-layer neural networks particularly designed for use on two-dimensional data, such as images. For a quick introduction to CNNs, please refer to section 2.3 of the [“Large-scale Computer Vision” overview](https://nlesc.sharepoint.com/sites/mlpr/Shared%20Documents/overview.pdf). For a more elaborate introduction, please refer to the online book [“Neural Networks and Deep Learning”](http://neuralnetworksanddeeplearning.com/index.html) and to the vast resources on [deeplearning.net](http://deaplearning.net). 
 
 For a flavor of what CNNs can achieve in image classification, try this very interesting [online demo](http://demo.caffe.berkeleyvision.org/). 
 
-It is important that in NLeSc we have knowledge and experience with the latest research in data analytics, where deep learning is currently the trend. In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. 
+## Sherlock
+In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. 
 
 ## Targets
 
@@ -16,9 +17,10 @@ It is important that in NLeSc we have knowledge and experience with the latest r
 
 ## Use cases
 To achieve these goals, the team will work on some use cases:
-*	**Car model classification**
-*	**Person gender classification**
-*	**Person age classification**
+### Car model classification
+
+### Person gender classification
+### Person age classification
 
 ## Sprint steps
 We will try to achieve the goals following number of steps (subject to team discussion):
@@ -34,6 +36,8 @@ We will try to achieve the goals following number of steps (subject to team disc
 
 
 ## References
+*   I. Arel, D. C. Rose and T. P. Karnowski., "Research frontier: Deep machine learning- a new frontier in artificial intelligence research," Computer Intalligence Magazine, pp. 13-18, 2010. 
+*   Y. Bengio, "Learning deep archiechures for AI," Foundations and Trends Machine Learning, vol. 2, no. 1, pp. 1-127, 2009. 
 * 	L. Yang, P. Luo, C. C. Loy and X. Tang, "A Large-Scale Car Dataset for Fine-Grained Categorization and Verification,," in Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 *	G. Levi and T. Hassner, "Age and Gender Classification using Convolutional Neural Networks," in IEEE Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at the IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), Boston, 2015. 
 
