@@ -14,5 +14,8 @@ working on the "Deep  leanring for computer vision" topic.
  * For the gender&age categorization use case follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CNN_AgeGenderEstimation.pdf).
 6. Download the (*chosen*) use case dataset(s):
  * For the car categorisation use case download from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FDatasets%252FCompCars) and use the info from the Access file. Read the README file.
- * For the gender&age categorization use case from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FDatasets%252FAdienceFaces). Read the README file.
-
+ * For the gender&age categorization use case- from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FDatasets%252FAdienceFaces). Read the README file.
+7. Install Caffe follwoing the [instructions](http://caffe.berkeleyvision.org/installation.html).
+8. Download the (*chosen*) use case Caffe model(s) from the CaffeModelZoo:
+  * For the car categorisation use case download from
+ *  For the gender&age categorization use case-from
