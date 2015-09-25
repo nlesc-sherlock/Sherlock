@@ -1,6 +1,6 @@
 #Logistics
 
-* [ ] Create main page for Sherlock github
+* [X] Create main page for Sherlock github
 
 * [ ] Team organization on github ? 
    - [ ] Option 1: have special organization for all Sherlock repos.
