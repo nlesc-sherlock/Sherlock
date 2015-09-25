@@ -1,5 +1,3 @@
-Collection of links to datasets, software, competitions, etc.
-=============================================================
 
 Open email datasets
 -------------------
