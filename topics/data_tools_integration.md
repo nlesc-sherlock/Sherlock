@@ -8,7 +8,7 @@ The goal of this team is to develop knowledge and techniques on assembling heter
 First Step
 ----------
 
-The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following <a href="https://userinfo.surfsara.nl/systems/hadoop/software" target="components">Alias <\a>. For that we need to (setup an account at DAS)[https://userinfo.surfsara.nl/systems/hadoop/obtaining-account].
+The major goal of this group is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. Hence, we will need a Hadoop cluster. The one selected for this project is the [Hadoop cluster](https://userinfo.surfsara.nl/systems/hadoop/description) from SurfSara which provides the following <Alias href="https://userinfo.surfsara.nl/systems/hadoop/software">. For that we need to (setup an account at DAS)[https://userinfo.surfsara.nl/systems/hadoop/obtaining-account].
 
 
 Second Step
