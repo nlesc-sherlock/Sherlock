@@ -22,19 +22,17 @@ To achieve these goals, the team will work on some use cases:
 A pre-trained CNNs for these use cases are made [available](http://caffe.berkeleyvision.org/model_zoo.html) by researchers. We are going to use these models for learning and experimenting.
 
 ### Car model classification
-A large image **dataset** of different car models "CompCars" have been assembled and presented in the following extended CVPR 2015 **paper**["A Large-Scale Car Dataset for Fine-Grained Categorization and Verification"](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_069_ext.pdf). An autorised copy of the dataset is available at [OneDrive]().
+A large image **dataset** of different car models "CompCars" have been assembled and presented in the following extended CVPR 2015 **paper** ["A Large-Scale Car Dataset for Fine-Grained Categorization and Verification"](http://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_069_ext.pdf). An autorised copy of the dataset is available at [OneDrive]().
 
 ### Person gender & age classification
-A diverse image **dataset** of photos of persons under very  challenging conditions have been collected 
-
-and presented in the following CVPR 2015 workshop **paper**["Age and Gender Classification using Convolutional Neural Networks"](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf). An autorised copy of the dataset is available at [OneDrive]().
+A diverse image **dataset** of photos of persons under very  challenging conditions have been introduced in the [Adience benchmark](http://www.openu.ac.il/home/hassner/Adience/data.html#agegender). CNNs have been used to claffify these data in the following CVPR 2015 workshop **paper** ["Age and Gender Classification using Convolutional Neural Networks"](http://www.openu.ac.il/home/hassner/projects/cnn_agegender/CNN_AgeGenderEstimation.pdf). A copy of the dataset is available at [OneDrive]().
 
 ## Sprint steps
 We will try to achieve the goals following number of steps (subject to team discussion, *these steps are considered if time permits*):
 
 1.	Learning about basics of Deep learning and CNNs
 2.	Follow tutorial(s) on deep leaning for image classification using Caffe. Caffe is a deep learning framework developed by the Berkeley Vision and Learning Center.
-3.	Use CNNs pre-trained on ImageNet and fine-tuned on car and person’s datasets (available at Caffe Model Zoo) to get classification results as reported in [3], [4]
+3.	Use CNNs pre-trained on [ImageNet](http://www.image-net.org/) and fine-tuned on car and person’s datasets (available at [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)) to get classification results as reported in the papers.
 4.	Learn about fine-tuning pertained CNNs for a specific CV task. 
 5.	Learn about training CNNs. 
 *6.	Learn about using Keras with Caffe models*
