@@ -10,7 +10,7 @@ working on the "Deep  leanring for computer vision" topic.
 3. Make sure you have Python working on your machine.
 4. *(conditional) Chose a use case from the [topic description decument](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/deeplearning4computervision.md)*
 5. Read the paper(s) for the (*chosen*) use case(s). 
-* For the car categorisation use case follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CarCategorization.pdf). 
-* For the gender&age categorization use case ase follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CNN_AgeGenderEstimation.pdf).
+ * For the car categorisation use case follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CarCategorization.pdf). 
+ * For the gender&age categorization use case ase follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CNN_AgeGenderEstimation.pdf).
 6. Download the 
 
