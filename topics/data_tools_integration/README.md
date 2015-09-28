@@ -1,6 +1,11 @@
 Tools and Data Integration (TDI)
 ================
 
+#Define as Targets the goals you want for team members, like understand how large systems are built, how we glue them an so on.
+#It will give us the knowledge to define grants, big data pipelines and discuss large projects or merges of small projects.
+#The software outcome could be gluing components of our colleagues, that would be the gold dream, for example using target 2.
+#These are our targets and to achieve them we have some interesting directions or seeds for thought.
+#
 One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups? How do we efficiently access data stored in different formats (possibly in a distributed setting)? How do we combine this data into a single result? How do we integrate everything into the existing NFI workflow? How do we execute this workflow efficiently?
 
 The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Target 1](#target-1) and [Target 2](#target-2)). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance ([Target 3](#target-3)). 
