@@ -5,7 +5,7 @@ One of the challenges we face at the NLeSC is the large and heterogeneous collec
 
 The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Target 1](#target-1) and [Target 2](#target-2)). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance ([Target 3](#target-3)). 
 
-Any documentation which cannot be made public available on gitHub it will be placed at the [Sherlock one drive's tool and data integration directory](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/tool%20and%20data%20integration).
+Any documentation which cannot be made public available on github it will be placed at the [Sherlock one drive's tool and data integration directory](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/tool%20and%20data%20integration).
 
 Setup
 -----
