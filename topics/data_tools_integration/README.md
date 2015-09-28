@@ -1,14 +1,14 @@
 Tools and Data Integration (TDI)
 ================
 
-<!--Define as Targets the goals you want for team members, like understand how large systems are built, how we glue them an so on.
+<!--Define as Options the goals you want for team members, like understand how large systems are built, how we glue them an so on.
 #It will give us the knowledge to define grants, big data pipelines and discuss large projects or merges of small projects.
-#The software outcome could be gluing components of our colleagues, that would be the gold dream, for example using target 2.
-#These are our targets and to achieve them we have some interesting directions or seeds for thought.
+#The software outcome could be gluing components of our colleagues, that would be the gold dream, for example using option 2.
+#These are our options and to achieve them we have some interesting directions or seeds for thought.
 -->
 One of the challenges we face at the NLeSC is the large and heterogeneous collection of libraries, tools, and data available to us. Integrating many existing components into a single system is a important topic in many of our projects. Sherlock offers us the perfect setting to improve our skills in this area. How do we combine the solutions developed by the different Sherlock groups? How do we efficiently access data stored in different formats (possibly in a distributed setting)? How do we combine this data into a single result? How do we integrate everything into the existing NFI workflow? How do we execute this workflow efficiently?
 
-The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Target 1](#target-1) and [Target 2](#target-2)). If things go as planned, we will also do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance ([Target 3](#target-3)). 
+The major goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a large and effective system ([Option 1](#option-1) and [Option 2](#option-2)). We also have the option to do performance profiling and decide if replacing current MapReduce jobs by Spark jobs improves Hansken's performance ([Option 3](#option-3)). Based on the interest of each team member we will decide which options will be explored and how. The idea is to develop/explore something which will give you new knowledge relevant for your current/future tasks at NLeSC.
 
 Any documentation which cannot be made public available on github it will be placed at the [Sherlock one drive's tool and data integration directory](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/tool%20and%20data%20integration).
 
@@ -22,7 +22,7 @@ Here are the steps to get you up and running:
 * SURFsara Hadoop cluster: once you have an account, get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
-Target 1
+Option 1
 --------
 
 One of the goals is to integrate the tools used and created by the other teams into the Hadoop based system used by the NFI. For that we will explore solutions which allow us to to run third party tools as User Defined Functions. 
@@ -33,13 +33,13 @@ Another example to consider is [Arvados](https://dev.arvados.org/projects/arvado
 
 Suggestions for other integration tools are welcomed!
 
-Target 2
+Option 2
 --------
 
-Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a single effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/) and [docker tooling](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/target_2/docker-tooling.md)), etc. For each of them you can find more information in [target 2/README.md](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/target_2/README.md). 
+Another goal of this team is to develop knowledge and techniques on assembling heterogeneous components into a single effective system. For this task we will look at portable service frameworks (such as [Apache Thrift](http://thrift.apache.org/)), interchange formats (such as [Protocol Buffers](https://developers.google.com/protocol-buffers/?hl=en)), messaging systems (such as [ZeroMQ](http://zeromq.org/)) applications containers (such as [Docker](https://www.docker.com/whatisdocker), few [NLeSC examples](https://hub.docker.com/u/nlesc/) and [docker tooling](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/option_2/docker-tooling.md)), etc. For each of them you can find more information in [option 2/README.md](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/option_2/README.md). 
 
 
-Target 3
+Option 3
 --------
 
 The Hadoop based system used by the NFI, in Hansken processing pipeline (see [Figure 2](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/digital%20forensics/DigitalInvestigation-Hansken.pdf#page=11)), is based on map-reduce and requires several iterations (typically 3 or 4) to fully analyze a set of files, such as a disk image. An initial performance profile done by Jason indicates there are few aspects for be improved: 

@@ -1,4 +1,4 @@
-TDI Target 2
+TDI Option 2
 ============
 
 Apache Thrift
