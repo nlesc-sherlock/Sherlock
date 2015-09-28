@@ -97,3 +97,5 @@ and development in information retrieval_. ACM, 2004.
 * Merge/cluster results from query expansion algorithms
 * Visualize merged query expansion results
 * Build simple user interface/demo
+* Do the same for terms that do not correlate/co-occur with query terms (does
+  that make sense?)
