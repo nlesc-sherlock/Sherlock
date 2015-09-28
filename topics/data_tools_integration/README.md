@@ -31,7 +31,7 @@ One example is the SCAPE Tool-to-MapReduce Wrapper (ToMaR), developed at the uni
 
 Another example to consider is [Arvados](https://dev.arvados.org/projects/arvados/wiki/Introduction_to_Arvados). *"Arvados is a platform for storing, organizing, processing, and sharing genomic and other big data. The platform is designed to make it easier for data scientists to develop analyses, developers to create genomic web applications and IT administers to manage large-scale compute and storage genomic resources. The platform is designed to run in the cloud or on your own hardware"*. Its [user documentation](http://doc.arvados.org/user/) is pretty well organized.
 
-Suggestions for other integration tools are welcome!
+Suggestions for other integration tools are welcomed!
 
 Target 2
 --------
