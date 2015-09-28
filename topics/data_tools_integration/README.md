@@ -14,7 +14,7 @@ The major goal of this group is to integrate the tools used and created by the o
 
 Here are the steps to get you up and running:
 * DAS-4 Hadoop cluster: before you submit a job read the [DAS-4 Usage Policy](http://www.cs.vu.nl/das4/usage.shtml) and [Job Execution](http://www.cs.vu.nl/das4/jobs.shtml) to learn how to submit a job. More info is under [setup directory](https://github.com/NLeSC/Sherlock/blob/master/topics/data_tools_integration/setup). 
-* SurfSARA Hadoop cluster: once you have an account, get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
+* SURFsara Hadoop cluster: once you have an account, get your Linux/Mac machine ready to [access the cluster and submit jobs](https://userinfo.surfsara.nl/systems/hadoop/usage). Note, if you only have an windows machine we advise you to install a virtual machine with linux (Ubuntu is recommended).
 
 
 Target 1
