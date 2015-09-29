@@ -2,10 +2,10 @@
 
 * [X] Create main page for Sherlock github
 
-* [ ] Team organization on github ? 
+* [X] Team organization on github ? 
    - [ ] Option 1: have special organization for all Sherlock repos.
    - [ ] Option 2: have subdirs + branches for all teams. Can do a merge afterward 
-   - [ ] Option 3: have separate repros for all teams ?
+   - [X] Option 3: have separate repros for all teams ? -- Seems best solution.
    
 * [X] Data location: Use Onedrive - Each team leader should have 1TB
 
