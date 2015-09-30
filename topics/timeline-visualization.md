@@ -61,7 +61,7 @@ Of particular interest are:
 - The paper by [Worring et al. (2012)](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/WorringICM2012.pdf) touches on most of the problems that we will encounter, so please read through that before the sprint.
 - I also found a couple of books online about visual analytics. These are:
    - [_Solving problems with visual analytics_](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2010-keim-et-al-visual-analytics-book-lowres.pdf) by Keim et al (2010)
-   - [_Illuminating the path -- the research and development agenda for visual analytics_](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2005-thomas-visual-analytics-illuminating-the-path.pdf) by Thomas et al (2005)
+   - [_Illuminating the path -- the research and development agenda for visual analytics_](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2005-thomas-visual-analytics-illuminating-the-path.pdf) by Thomas and Cook (2005)
 
 
 
