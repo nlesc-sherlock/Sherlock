@@ -23,10 +23,10 @@ The visualization will likely be a timeline with events, with additional synchro
 
 Examples of interesting data sets include (see [here](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/ForensicDataSets.pdf) for a more complete overview):
 - the [Enron data set](http://www.cs.cmu.edu/%7Eenron/enron_mail_20150507.tgz);
-- Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/)).
+- Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/));
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
-- [GovDocs1](http://digitalcorpora.org/corp/files/govdocs1/)
-- in principle, any data set that has time annotations is interesting
+- [GovDocs1](http://digitalcorpora.org/corp/files/govdocs1/); it may be easiest to download this to a new partition, make an image out of it, and then let Hansken process it;
+- in principle, any data set that has time annotations is interesting.
 
 ## some random ideas for things you can work on
 
