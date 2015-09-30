@@ -4,9 +4,14 @@ The data on a given storage device can be broken down into many smaller pieces o
 
 This group will focus on the visualization of such timebound information. The general idea of such a visualization is to provide an interactive interface to the data, making it easier for forensics investigators to see links between items, spot patterns, and get a grasp on the course of events. Such tools are also useful in some of our own work (e.g. [DiLiPaD](https://www.esciencecenter.nl/project/dilipad), [Mining shifting concepts through time](https://www.esciencecenter.nl/project/mining-shifting-concepts-through-time-shico), [BiographyNet](https://www.esciencecenter.nl/project/biographynet), [https://www.esciencecenter.nl/project/twinl](TwiNL), [HADRIANVS](https://www.esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages).
 
+The visualization problem breaks down into 3 problems:
+   1. the technological side of making the JavaScript work
+   1. the data collection and preparation side
+   1. the visual analytics side: what visualization is best suited to simply represent a given aspect of the data
+
 ## technology
 
-The visualization will likely be a timeline with events, with additional synchronized view(s) providing details (and maybe context, relations to other events, etc). It should be easy to interact with the data using zooming and filtering. Perhaps it's also useful (and feasible) to have some history (of the interface), such that a user can retrace (Undo/Redo) his/her steps. We will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). 
+The visualization will likely be a timeline with events, with additional synchronized view(s) providing details (and maybe context, relations to other events, etc). It should be easy to interact with the data using zooming and filtering. Perhaps it's also useful (and feasible) to have some history (of the interface), such that a user can retrace (Undo/Redo) his/her steps. We will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). Perhaps we need a database as well.
 
 ## data
 
@@ -16,7 +21,7 @@ Examples of interesting data sets include (see [here](https://github.com/NLeSC/S
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
 - in principle, any data set that has time annotations is interesting
 
-## things you can work on
+## some random ideas for things you can work on
 
 - Graphical querying, using the interface to (implicitly) make selections 
 - Timestamps may also be derived from the content of files; e.g a photo may have a person in it before that person had a terrible accident and lost a leg, placing the photo either before or after the time of the accident. Another example may be somebody referring to an event that happened last summer in an email. Note that this poses challenges with regard to visualization of uncertainty. 
@@ -25,10 +30,7 @@ Examples of interesting data sets include (see [here](https://github.com/NLeSC/S
 
 ## work plan (subject to change)
 
-So here's how I envision us starting work on this. The visualization problem breaks down into 3 problems:
-   1. the technological side of making the JavaScript work
-   1. the data collection and preparation side
-   1. the visual analytics side: what visualization is best suited to simply represent a given aspect of the data
+So here's how I envision us starting work on this. 
 
 1. First, we should have a brainstorm to make an inventory of the data sets that we will be working with, and we should discuss what JavaScript libraries are likely best suited for visualizing them what problems we may have. 
 1. Second, we should divide over two subteams.
