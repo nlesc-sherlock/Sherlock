@@ -55,7 +55,7 @@ I think this is probably enough to fill up the first sprint.
 
 ## further reading
 
-Additional literature (and data) can be found one our [Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/GroupsDocuments.aspx#InplviewHashaeee6a96-ce93-4f21-a2d0-3055e41f961d=).
+Additional literature (and data) can be found on our [Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/GroupsDocuments.aspx#InplviewHashaeee6a96-ce93-4f21-a2d0-3055e41f961d=).
 
 Of particular interest are:
 - The paper by [Worring et al. (2012)](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/WorringICM2012.pdf) touches on most of the problems that we will encounter, so please read through that before the sprint.
