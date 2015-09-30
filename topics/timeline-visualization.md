@@ -32,6 +32,7 @@ Examples of interesting data sets include (see [here](https://nlesc.sharepoint.c
 - Graphical querying, using the interface to (implicitly) make selections 
 - Timestamps may also be derived from the content of files; e.g a photo may have a person in it before that person had a terrible accident and lost a leg, placing the photo either before or after the time of the accident. Another example may be somebody referring to an event that happened last summer in an email. Note that this poses challenges with regard to visualization of uncertainty. 
 - analyze twitterfeeds that are close (in space and time) to a known event such as pop festivals, SAIL, Zwarte Cross, a soccer game, the riots in The Hague after (supposed?) police violence, etc. Could be interesting to combine this with someone who's working the NLP end of things.
+- periodic visualization e.g. [here](http://dougmccune.com/blog/2011/04/21/visualizing-cyclical-time-hour-of-day-charts/) and [here](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2001-weber-et-al-visualizing-time-series-on-spirals.pdf)
 - etc.
 
 ## work plan (subject to change)
