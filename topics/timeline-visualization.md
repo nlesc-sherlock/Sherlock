@@ -3,7 +3,7 @@
 - [technology](#technology)
 - [data](#data)
 - [some random ideas for things you can work on](#some-random-ideas-for-things-you-can-work-on)
-- [work plan](#work-plan)
+- [work plan](#work%20plan%20(subject%20to%20change))
 
 The data on a given storage device can be broken down into many smaller pieces of information. A piece can have zero, one, or multiple timestamps associated with it. For example, in file systems that keep track of a file's modified, accessed, created timestamps, there are already 3 timestamps per file. 
 
