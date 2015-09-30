@@ -5,7 +5,7 @@ The data on a given storage device can be broken down into many smaller pieces o
 This group will focus on the visualization of such timebound information. The general idea of such a visualization is to provide an interactive interface to the data, making it easier for forensics investigators to see links between items, spot patterns, and get a grasp on the course of events. Such tools are also useful in some of our own work (e.g. [DiLiPaD](https://www.esciencecenter.nl/project/dilipad), [Mining shifting concepts through time](https://www.esciencecenter.nl/project/mining-shifting-concepts-through-time-shico), [BiographyNet](https://www.esciencecenter.nl/project/biographynet), [TwiNL](https://www.esciencecenter.nl/project/twinl), [HADRIANVS](https://www.esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages)).
 
 The visualization problem breaks down into 3 problems:
-   1. the technological side of making the JavaScript work
+   1. the technological side of making the code work
    1. the data collection and preparation side
    1. the visual analytics side: what visualization is best suited to simply represent a given aspect of the data
 
