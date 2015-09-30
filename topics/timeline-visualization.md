@@ -4,6 +4,7 @@
 - [data](#data)
 - [some random ideas for things you can work on](#some-random-ideas-for-things-you-can-work-on)
 - [work plan](#work-plan-subject-to-change)
+- [Sherlock OneDrive](#sherlock-onedrive)
 
 The data on a given storage device can be broken down into many smaller pieces of information. A piece can have zero, one, or multiple timestamps associated with it. For example, in file systems that keep track of a file's modified, accessed, created timestamps, there are already 3 timestamps per file. 
 
@@ -50,6 +51,21 @@ So here's how I envision us starting work on this.
 I also want to take the time to disseminate our collective findings within our group. For example if you've been working on preparing data and you're interested in how to set up the visualization, there should be time for this (perhaps in the form of paired programming --we can discuss what's the best way for a given person/task).
 
 I think this is probably enough to fill up the first sprint.
+
+
+## Further reading
+
+Additional literature (and data) can be found one our [Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/GroupsDocuments.aspx#InplviewHashaeee6a96-ce93-4f21-a2d0-3055e41f961d=).
+
+Of particular interest are:
+- The paper by [Worring et al. (2012)](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/WorringICM2012.pdf) touches on most of the problems that we will encounter, so please read through that before the sprint.
+- I also found a couple of books online about visual analytics. These are:
+   - [_Solving problems with visual analytics_]](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2010-keim-et-al-visual-analytics-book-lowres.pdf) by Keim et al (2010)
+
+
+
+
+
 
 
 
