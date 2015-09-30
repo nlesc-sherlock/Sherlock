@@ -2,7 +2,7 @@
 
 The data on a given storage device can be broken down into many smaller pieces of information. A piece can have zero, one, or multiple timestamps associated with it. For example, in file systems that keep track of a file's modified, accessed, created timestamps, there are already 3 timestamps per file. 
 
-This group will focus on the visualization of such timebound information. The general idea of such a visualization is to provide an interactive interface to the data, making it easier for forensics investigators to see links between items, spot patterns, and get a grasp on the course of events. Such tools will likely also be useful in some of our own work. 
+This group will focus on the visualization of such timebound information. The general idea of such a visualization is to provide an interactive interface to the data, making it easier for forensics investigators to see links between items, spot patterns, and get a grasp on the course of events. Such tools are also useful in some of our own work (e.g. [DiLiPaD](https://www.esciencecenter.nl/project/dilipad), [Mining shifting concepts through time](https://www.esciencecenter.nl/project/mining-shifting-concepts-through-time-shico), [BiographyNet](https://www.esciencecenter.nl/project/biographynet), [https://www.esciencecenter.nl/project/twinl](TwiNL), [HADRIANVS](https://www.esciencecenter.nl/project/handrianvs-a-digital-gateway-to-the-dutch-presence-in-rome-through-the-ages).
 
 Regarding the technological side of things, we will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). 
 
