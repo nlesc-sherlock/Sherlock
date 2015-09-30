@@ -23,7 +23,7 @@ The visualization will likely be a timeline with events, with additional synchro
 
 Examples of interesting data sets include (see [here](https://github.com/NLeSC/Sherlock/blob/master/Datasets.md) for a more complete overview):
 - the Enron data set;
-- Twitter; I already made a Python script that collects tweets [here](https://github.com/jspaaks/twitgrab/) using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library.
+- Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/)).
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
 - in principle, any data set that has time annotations is interesting
 
