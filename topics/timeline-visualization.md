@@ -1,6 +1,6 @@
 #Visualization of timelines
 
-- [technology](technology)
+- [technology](#technology)
 
 The data on a given storage device can be broken down into many smaller pieces of information. A piece can have zero, one, or multiple timestamps associated with it. For example, in file systems that keep track of a file's modified, accessed, created timestamps, there are already 3 timestamps per file. 
 
