@@ -25,6 +25,7 @@ Examples of interesting data sets include (see [here](https://nlesc.sharepoint.c
 - the Enron data set;
 - Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/)).
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
+- GovDocs1
 - in principle, any data set that has time annotations is interesting
 
 ## some random ideas for things you can work on
