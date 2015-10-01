@@ -146,3 +146,5 @@ Other Corpora
 
 * [UT San Antonio Digital Corpora](http://digitalcorpora.org/corp/nps/files/filetypes1/)
 
+* [long list of (mostly) open data sets](https://github.com/caesar0301/awesome-public-datasets)
+
