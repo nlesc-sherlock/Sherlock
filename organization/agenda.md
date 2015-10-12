@@ -1,4 +1,4 @@
-# Sprint 1 Agenda (tentative)
+# Sprint 1 Agenda 
 
 ## Day 1 - October 20
 
