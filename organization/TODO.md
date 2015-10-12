@@ -24,13 +24,13 @@
    - [X] wednesday cake by Carlos
    - [X] on thursday cake by Janneke
    - [X] diner on last day + drinks
-   - [ ] Send headcount to Sacha & people bringing cake
+   - [X] Send headcount to Sacha & people bringing cake
 
 * [ ] Teams 
    - [X] overview of people 
    - [X] away list 
    - [X] split into teams (after they give preference) 6*4 ? Use google survey ?
-   - [ ] Announce teams
+   - [X] Announce teams
    - [ ] divide rooms/desks 
  
 * [ ] Set dates for Sherlock follow up project at end of Sherlock ?
