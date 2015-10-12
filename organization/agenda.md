@@ -21,7 +21,7 @@
 - 17:00 End of day report of team progress
 - 17:30 Closing
 
-## Day 2 - October 22
+## Day 3 - October 22
 
 - 9:00 Wakeup with coffee and cake!
 - 9:30 15 minute standup by team leaders
