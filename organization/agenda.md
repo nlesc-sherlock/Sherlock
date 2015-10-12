@@ -3,7 +3,7 @@
 ## Day 1 - October 20
 
 - 9:00 Wakeup with coffee and cake!
-- 9:30 Presentation of NFI on digital Forensics with Hansken (tentative)
+- 9:30 Presentation by Ruud van Baar (NFI) on Digital Forensics with Hansken.
 - 10:15 15 minute standup by team leaders
 - 12:00 Lunch
 - 15:00 Coffee break 
