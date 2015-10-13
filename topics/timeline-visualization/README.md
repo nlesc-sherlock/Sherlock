@@ -17,7 +17,7 @@ The visualization problem breaks down into 3 problems:
 
 ## technology
 
-The visualization will likely be a timeline with events, with additional synchronized view(s) providing details (and maybe context, relations to other events, etc). It should be easy to interact with the data using zooming and filtering. Perhaps it's also useful (and feasible) to have some history (of the interface), such that a user can retrace (Undo/Redo) his/her steps. We will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). Perhaps we need a database as well.
+The visualization will likely be a timeline with events, with additional synchronized view(s) providing details (and maybe context, relations to other events, etc). It should be easy to interact with the data using zooming and filtering. Perhaps it's also useful (and feasible) to have some history (of the interface), such that a user can retrace (Undo/Redo) his/her steps. We will likely use JavaScript based technologies such as D3.js (visualization), CrossFilter (a JavaScript library for efficient filtering of data), dc.js (combination of D3 and CrossFilter). Perhaps we need a database as well. Preparation of the data will most likely be done with Python.
 
 ## data
 
