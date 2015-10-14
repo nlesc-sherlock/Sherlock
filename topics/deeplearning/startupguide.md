@@ -28,7 +28,7 @@ Installing Caffe seems problematic, so pre-packed installation is easier. The fo
 
          `import caffe`
          
-    * Try the verification commands as described in [https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/] (running the network takes ~ 15 mins.).
+    * Try the verification commands as described in https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master (running the network takes ~ 15 mins.).
 8. Download the (*chosen*) use case Caffe model(s) from the links given at [CaffeModelZoo](https://github.com/BVLC/caffe/wiki/Model-Zoo), namely:
   * For the car categorisation use case download the [GoogLeNet_cars model](https://gist.github.com/bogger/b90eb88e31cd745525ae). Read the README.
  *  For the gender&age categorization use case download the [Age and Gender CNNs] (https://gist.github.com/GilLevi/c9e99062283c719c03de). Read the README.
