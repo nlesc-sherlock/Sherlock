@@ -17,16 +17,16 @@ working on the "Deep  learning for computer vision" topic.
  * For the gender&age categorization use case: [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Forms/All.aspx#InplviewHashaca49138-2f09-41f3-8065-eadee2b27c93=RootFolder%3D%252Fpersonal%252Fe%255Franguelova%255Fesciencecenter%255Fnl%252FDocuments%252FSherlock%252FDeepLearning4ComputerVision%252FDatasets%252FAdienceFaces). Read the README file.
 7. Install Caffe following the [instructions](http://caffe.berkeleyvision.org/installation.html).
 Installing Caffe seems problematic, so pre-packed installation is easier. The follwoing steps are very quick and tested fromUbuntu, witin a VM. Use the docker container with Caffe (CPU or GPU flavours). [CPU flavour](https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/): 
-     * If you don't have docker installed use  wget -qO- https://get.docker.com/ | sh
-     * Go to your working directory, say Sherlock (we could linkit to our git hub repo): cd Sherlock
-     * ~/Sherlock$ docker run -ti --rm  -v $PWD:/Sherlock tleyden5iwx/caffe-cpu-master bash
+     * If you don't have docker installed use  `wget -qO- https://get.docker.com/ | sh`
+     * Go to your working directory, say Sherlock (we could linkit to our git hub repo): `cd Sherlock`
+     * `~/Sherlock$ docker run -ti --rm  -v $PWD:/Sherlock tleyden5iwx/caffe-cpu-master bash`
      
     This will start the docker VM and map your local Sherlock to a Sherlock directory within docker. Beware: all files generated from within the Docker VM will be owned by root!
     * These should work without error:
     
-         ipytnon
+         `ipytnon`
 
-         import caffe
+         `import caffe`
          
     * Try the verification commands as described in [https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/] (running the network takes ~ 15 mins.).
 8. Download the (*chosen*) use case Caffe model(s) from the links given at [CaffeModelZoo](https://github.com/BVLC/caffe/wiki/Model-Zoo), namely:
