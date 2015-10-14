@@ -18,10 +18,10 @@ working on the "Deep  learning for computer vision" topic.
 7. Install Caffe following the [instructions](http://caffe.berkeleyvision.org/installation.html).
 Installing Caffe seems problematic, so pre-packed installation is easier. The follwoing steps are very quick and tested fromUbuntu, witin a VM. Use the docker container with Caffe (CPU or GPU flavours). [CPU flavour](https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/): 
      * If you don't have docker installed use  `wget -qO- https://get.docker.com/ | sh`
-     * Go to your working directory, say Sherlock (we could linkit to our git hub repo): `cd Sherlock`
+     * Go to your working directory, say Sherlock (we could link it soon to our git hub repo): `cd Sherlock`
      * `~/Sherlock$ docker run -ti --rm  -v $PWD:/Sherlock tleyden5iwx/caffe-cpu-master bash`
      
-    This will start the docker VM and map your local Sherlock to a Sherlock directory within docker. Beware: all files generated from within the Docker VM will be owned by root!
+    This will start the docker VM and map your local Sherlock directory to a Sherlock directory within docker. **Beware: all files generated from within the Docker VM will be owned by root!**
     * These should work without error:
     
          `ipytnon`
