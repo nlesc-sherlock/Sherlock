@@ -8,7 +8,7 @@ working on the "Deep  learning for computer vision" topic.
   * *If you are new to Machine Learning (ML)*, watch this [gentle introduction to ML video] (https://www.youtube.com/watch?v=NOm1zA_Cats) (~ 15 mins. w/o the questions).
   * *If you are new to deep learning (for computer vision)* watch this [video lecture](https://www.youtube.com/watch?v=PlhFWT7vAEw) for Oxford CS students (~ 50 mins.).
 3. Make sure you have Python working on your machine.
-4. *(conditional) Chose a use case from the [topic description decument](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/deeplearning4computervision.md).*
+4. *(conditional) Chose a use case from the [topic description document](https://github.com/NLeSC/Sherlock/blob/master/topics/deeplearning/deeplearning4computervision.md).*
 5. Read the paper(s) for the (*chosen*) use case(s): 
  * For the car categorisation use case follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CarCategorization.pdf). 
  * For the gender&age categorization use case follow the original link from the topic descritpion or get it from [OneDrive](https://nlesc-my.sharepoint.com/personal/e_ranguelova_esciencecenter_nl/Documents/Sherlock/DeepLearning4ComputerVision/Papers/CNN_AgeGenderEstimation.pdf).
