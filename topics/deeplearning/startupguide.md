@@ -20,11 +20,15 @@ Installing Caffe seems problematic, so pre-packed installation is easier. The fo
      * If you don't have docker installed use  wget -qO- https://get.docker.com/ | sh
      * Go to your working directory, say Sherlock (we could linkit to our git hub repo): cd Sherlock
      * ~/Sherlock$ docker run -ti --rm  -v $PWD:/Sherlock tleyden5iwx/caffe-cpu-master bash
-    This will startthe docker VM andmapyour local Sherlock to a Sherlock direcotry within docker. Beware: all files generated from within the Docker VM will be owned by root!
-    * Test if the docker VM is working:
-        **       ipytnon
-               import caffe
-        ** Try the verification commands as described in [https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/] (running the network takes ~ 15 mins.).
+     
+    This will start the docker VM and map your local Sherlock to a Sherlock directory within docker. Beware: all files generated from within the Docker VM will be owned by root!
+    * These should work without error:
+    
+         ipytnon
+
+         import caffe
+         
+    * Try the verification commands as described in [https://hub.docker.com/r/tleyden5iwx/caffe-cpu-master/] (running the network takes ~ 15 mins.).
 8. Download the (*chosen*) use case Caffe model(s) from the links given at [CaffeModelZoo](https://github.com/BVLC/caffe/wiki/Model-Zoo), namely:
   * For the car categorisation use case download the [GoogLeNet_cars model](https://gist.github.com/bogger/b90eb88e31cd745525ae). Read the README.
  *  For the gender&age categorization use case download the [Age and Gender CNNs] (https://gist.github.com/GilLevi/c9e99062283c719c03de). Read the README.
