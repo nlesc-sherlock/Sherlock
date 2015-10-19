@@ -9,7 +9,7 @@
 *  Run pre-trained network on example test images
 
 ## Day 2
-*Processing pipeline**
+**Processing pipeline**
  * Design and implement simple processing pipeline- from image to classification (persons use case).
  * Test pipleine
  * Read car model classification paper/download models and data (if not done)
