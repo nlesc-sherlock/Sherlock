@@ -68,4 +68,34 @@ Of particular interest are:
 - I also found a couple of books online about visual analytics (peruse at your leisure):
    - [_Illuminating the path -- the research and development agenda for visual analytics_](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2005-thomas-visual-analytics-illuminating-the-path.pdf) by Thomas and Cook (2005)
    - [_Solving problems with visual analytics_](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/timeline%20visualization/2010-keim-et-al-visual-analytics-book-lowres.pdf) by Keim et al (2010)
+    
+And here's a collection of semi-related links (for inspiration)
  - Time Maps: Visualizing Discrete Events Across Many Timescales https://districtdatalabs.silvrback.com/time-maps-visualizing-discrete-events-across-many-timescales
+ - visualization of a timeline about genetics research http://wellcomelibrary.org/collections/digital-collections/makers-of-modern-genetics/genetics-timeline
+ - simple timeline visualization using timelinesetter (seems to be popular with online newspapers), e.g.
+  - http://www.minnpost.com/data/2011/09/timeline-michele-bachmanns-rise
+  - http://www.jsonline.com/news/129159038.html
+  - http://www.chicagotribune.com/sports/hockey/blackhawks/ct-patrick-kane-timeline-20150923-htmlstory.html
+  - http://www.huffingtonpost.com/2011/09/09/ground-zero-world-trade-center-freedom-tower_n_955845.html
+  - http://www.nytimes.com/interactive/2011/03/23/movies/20110323-ELIZABETH-TAYLOR-TIMELINE.html?_r=0
+ - Simile Widgets list of examples http://www.simile-widgets.org/timeline/examples/index.html, e.g.
+  - http://www.simile-widgets.org/timeline/examples/religions/jewish-history.html
+ - TimeGlider e.g. http://timeglider.com/widget/
+  - http://timeglider.com/timeline/line_cialeak
+       http://timeglider.com/timeline/line_idaho
+       http://timeglider.com/timeline/line_7fa40ebcc6f03f8fd1e73a61b0b53edf
+       http://timeglider.com/timeline/line_5c6601911676ed09bbfb48a89396ff98
+
+
+
+Almende Timeline
+   list of examples http://almende.github.io/chap-links-library/timeline.html
+   e.g. http://almende.github.io/chap-links-library/js/timeline/examples/example24_individual_editable_events.html
+        http://almende.github.io/chap-links-library/js/timeline/examples/example28_custom_controls.html
+        http://almende.github.io/chap-links-library/js/timeline/examples/example15_mobile.html
+
+CFTL timeline visualization program:
+   https://github.com/jensolsson/CFTL
+
+
+
