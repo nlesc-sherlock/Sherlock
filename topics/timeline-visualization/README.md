@@ -82,20 +82,17 @@ And here's a collection of semi-related links (for inspiration)
   - http://www.simile-widgets.org/timeline/examples/religions/jewish-history.html
  - TimeGlider e.g. http://timeglider.com/widget/
   - http://timeglider.com/timeline/line_cialeak
-       http://timeglider.com/timeline/line_idaho
-       http://timeglider.com/timeline/line_7fa40ebcc6f03f8fd1e73a61b0b53edf
-       http://timeglider.com/timeline/line_5c6601911676ed09bbfb48a89396ff98
+  - http://timeglider.com/timeline/line_idaho
+  - http://timeglider.com/timeline/line_7fa40ebcc6f03f8fd1e73a61b0b53edf
+  - http://timeglider.com/timeline/line_5c6601911676ed09bbfb48a89396ff98
 
-
-
-Almende Timeline
-   list of examples http://almende.github.io/chap-links-library/timeline.html
-   e.g. http://almende.github.io/chap-links-library/js/timeline/examples/example24_individual_editable_events.html
-        http://almende.github.io/chap-links-library/js/timeline/examples/example28_custom_controls.html
-        http://almende.github.io/chap-links-library/js/timeline/examples/example15_mobile.html
+Almende Timeline list of examples http://almende.github.io/chap-links-library/timeline.html e.g.     
+- http://almende.github.io/chap-links-library/js/timeline/examples/example24_individual_editable_events.html
+- http://almende.github.io/chap-links-library/js/timeline/examples/example28_custom_controls.html
+- http://almende.github.io/chap-links-library/js/timeline/examples/example15_mobile.html
 
 CFTL timeline visualization program:
-   https://github.com/jensolsson/CFTL
+ - https://github.com/jensolsson/CFTL
 
 
 
