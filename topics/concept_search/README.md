@@ -44,6 +44,9 @@ based on word co-occurences (so, data-driven), for example:
 * Topic modeling
 * Deep learning
 * Probabilistic approaches
+* Association rules
+* Local context analysis
+* Query language modeling (mixture model and relevance model)
 * [Elasticsearch significant terms aggregation](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket-significantterms-aggregation.html)
 * [Parsimonious Language Modeling](https://github.com/larsmans/weighwords)
 * ...
@@ -78,6 +81,7 @@ and development in information retrieval_. ACM, 2004.
 
 ## Subtasks
 
+* Make list of test queries (single term vs multiple terms/phrase queries)
 * Implement query expansion algorithms
 * Merge/cluster results from query expansion algorithms
 * Visualize merged query expansion results
