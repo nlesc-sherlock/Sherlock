@@ -20,8 +20,8 @@ OR use the docker container with Caffe installed (CPU or GPU flavours). [CPU fla
      * If you don't have docker installed use  `wget -qO- https://get.docker.com/ | sh`
      * If that doesn't work, try it again, and again. ( i had to run it without the "| sh" first)
      * Start docker deamon: `sudo service docker start`
-     * Go to your working directory, say Sherlock (we could link it soon to our git hub repo): `cd Sherlock`
-     * `~/Sherlock$ sudo docker run -ti --rm  -v $PWD:/Sherlock tleyden5iwx/caffe-cpu-master bash`
+     * Go to your working directory, say deeplearning (our git hub repo): `cd deeplearning`
+     * `~/deeplearning$ sudo docker run -ti --rm  -v $PWD:/deeplearning tleyden5iwx/caffe-cpu-master bash`
      
     This will start the docker VM and map your local Sherlock directory to a Sherlock directory within docker. **Beware: all files generated from within the Docker VM will be owned by root!**
     * These should work without error:
