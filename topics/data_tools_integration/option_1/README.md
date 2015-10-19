@@ -1,2 +1,2 @@
-TDI Target 3
+TDI Option 1
 ============

@@ -1,6 +1,5 @@
 # Analyzing document corpora
-or
-## What are you talking about?
+#### ( or What are you talking about?)
 
 ### Overview
 
@@ -10,7 +9,7 @@ We will tackle these problems using natural language processing tools. The aim o
 
 ### A bit of technical detail
 
-In the field of NLP, topic modeling has become a popular technique for analyzing large sets of documents. Topic models attempt to infer a set of topics (basically, bags of words) and then identify the probability of a topic being contained in a document (e.g. Document1 is made up of 0.5*Football topic + 0.2*General sports topic +0.3*Drugs and crime topic).
+In the field of NLP, topic modeling has become a popular technique for analyzing large sets of documents. Topic models attempt to infer a set of topics (basically, bags of words) and then identify the probability of a topic being contained in a document (e.g. Document1 is made up of 0.5 * Football topic + 0.2 * General sports topic + 0.3 * Drugs and crime topic).
 
 However there are still many open questions when using topic modeling: document pre-processing, optimum number of topics to use, visualization and interpretation of the results, etc.
 

@@ -57,6 +57,7 @@ based on word co-occurences (so, data-driven), for example:
 * [Elasticsearch for Hadoop](https://www.elastic.co/products/hadoop)
 * [scikit-learn](http://scikit-learn.org/stable/)
 * [word2vec](https://code.google.com/p/word2vec/)
+* [word2vec query expansion component for Apache Lucene](http://www.radialpoint.com/tech-blog/word2vec-query-expansion-component-for-apache-lucene/)
 * ...
 
 ## Papers/literature
@@ -66,9 +67,23 @@ in Information Retrieval](http://www-labs.iro.umontreal.ca/~nie/IFT6255/carpinet
 * Manning, C., Raghavan, P., and Schutze, H. (2008).
 [Chapter 9: Relevance feedback and query expansion](http://nlp.stanford.edu/IR-book/pdf/09expand.pdf).
 In _Introduction to Information Retrieval_. Cambridge: Cambridge University Press.
-* Query Expansion Using Topic Modeling
-* Deep learning
-* Mehta, V.; Caceres, R.S.; Carter, K.M., Evaluating topic quality using model clustering, in _2014 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)_, pp.178-185, 2014
+* Yi, X., & Allan, J. (2009). [A comparative study of utilizing topic models for
+ information retrieval](http://maroo.cs.umass.edu/pdf/IR-689.pdf). In _Advances
+ in Information Retrieval_ (pp. 29-41). Springer Berlin Heidelberg.
+* Andrzejewski, D., & Buttler, D. (2011). [Latent topic feedback for information
+retrieval](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/concept%20search/10.1.1.396.8365.pdf).
+In _Proceedings of the 17th ACM SIGKDD international conference on Knowledge
+discovery and data mining_ (pp. 600-608). ACM.
+* Ye, Z., Huang, J. X., & Lin, H. (2011). [Finding a good query‐related topic
+for boosting pseudo‐relevance feedback](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/concept%20search/Ye_et_al-2011-Journal_of_the_American_Society_for_Information_Science_and_Technology.pdf). _Journal
+of the American Society for Information Science and Technology_, 62(4), 748-760.
+* Serizawa, M., & Kobayashi, I. (2013). [A study on query expansion based on
+topic distributions of retrieved documents](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/concept%20search/qe_topic_distributions.pdf).
+In _Computational Linguistics and Intelligent Text Processing_ (pp. 369-379). Springer Berlin Heidelberg.
+* Sordoni, A., Bengio, Y., & Nie, J. Y. (2014, June). [Learning Concept
+Embeddings for Query Expansion by Quantum Entropy Minimization](https://nlesc.sharepoint.com/sites/sherlock/Shared%20Documents/papers/concept%20search/8367-38333-1-PB.pdf). In _Twenty-Eighth AAAI Conference on Artificial Intelligence_.
+* Mehta, V.; Caceres, R.S.; Carter, K.M., Evaluating topic quality using model clustering, in _2014 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)_, pp.178-185, 2014 (Ideas on
+how to merge query expansion terms and how to evaluate the results)
 * Hiemstra, D., Robertson, S., and Zaragoza, H. [Parsimonious language models for
 information retrieval](http://eprints.eemcs.utwente.nl/7256/01/p178-hiemstra.pdf).
 In _Proceedings of the 27th annual international ACM SIGIR conference on Research
@@ -86,3 +101,5 @@ and development in information retrieval_. ACM, 2004.
 * Merge/cluster results from query expansion algorithms
 * Visualize merged query expansion results
 * Build simple user interface/demo
+* Do the same for terms that do not correlate/co-occur with query terms (does
+  that make sense?)

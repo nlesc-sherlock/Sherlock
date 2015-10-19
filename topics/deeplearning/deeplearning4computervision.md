@@ -3,12 +3,12 @@
 Deep Machine Learning has been declared the new frontier in artificial intelligence research in 2010, [I. Arel et al, "Research frontier: Deep machine learning- a new frontier in artificial intelligence research "](http://web.eecs.utk.edu/~itamar/Papers/CIM2010.pdf). It is important that in NLeSc we have knowledge and experience with the latest research in data analytics, where deep learning is currently the trend. 
 
 ## Convolutional Neural Networks
-The Convolutional Neural Networks (CNN) are a type of deep learning networks, [Y. Bengio, "Learning deep archiechures for AI"](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf). CNNs are a family of multi-layer neural networks particularly designed for use on two-dimensional data, such as images. For a quick introduction to CNNs, please refer to section 2.3 of the [“Large-scale Computer Vision” overview](https://nlesc.sharepoint.com/sites/mlpr/Shared%20Documents/overview.pdf). For a more elaborate introduction, please refer to the online book [“Neural Networks and Deep Learning”](http://neuralnetworksanddeeplearning.com/index.html) and to the vast resources on [deeplearning.net](http://deaplearning.net). 
+The Convolutional Neural Networks (CNN) are a type of deep learning networks, [Y. Bengio, "Learning deep architechures for AI"](http://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf). CNNs are a family of multi-layer neural networks particularly designed for use on two-dimensional data, such as images. For a quick introduction to CNNs, please refer to section 2.3 of the [“Large-scale Computer Vision” overview](https://nlesc.sharepoint.com/sites/mlpr/Shared%20Documents/overview.pdf). For a more elaborate introduction, please refer to the online book [“Neural Networks and Deep Learning”](http://neuralnetworksanddeeplearning.com/index.html) and to the vast resources on [deeplearning.net](http://deaplearning.net). 
 
 ## Sherlock
 In the context of project Sherlock we look at some of the questions asked by the digital forensic investigators, for example: *“Can we automatically and quickly find a (red) Ferrari in the images on a suspect’s disk?”*, *“Can we automatically and quickly find the persons (identity/ age/ gender) in the image data?”*, etc. Tacking such questions, which are image classification tasks, with deep learning seems very promising. For a flavor of what CNNs can achieve in image classification, try this very interesting Berkeley Vision lab [online demo](http://demo.caffe.berkeleyvision.org/). 
 
-The first sprint of project Sherlock has the follwoing goals:
+The first sprint of project Sherlock has the following goals:
 
 1.	Learn <sup>[$](#footnote1)</sup> about deep learning and CNNs and their application in CV tasks
 2.	Verify weather CNNs are suitable for CV tasks found in digital forensics
