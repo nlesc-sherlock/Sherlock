@@ -97,6 +97,7 @@ and development in information retrieval_. ACM, 2004.
 ## Subtasks
 
 * Make list of test queries (single term vs multiple terms/phrase queries)
+  * Papers etc. about Enron data: http://enrondata.org/content/research/
 * Implement query expansion algorithms
 * Merge/cluster results from query expansion algorithms
 * Visualize merged query expansion results
