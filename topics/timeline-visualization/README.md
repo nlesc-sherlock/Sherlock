@@ -26,7 +26,7 @@ Examples of interesting data sets include (see [here](https://github.com/NLeSC/S
 - Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/));
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
 - [GovDocs1](http://digitalcorpora.org/corp/files/govdocs1/); ~~it may be easiest to download this to a new partition, make an image out of it, and then let Hansken process it~~ [disk image and Hansken JSON output are in the Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/Group.aspx?GroupId=6aad52c4-7dfc-4076-9772-4f9c9180bde2&AppId=Files&id=%2Fsites%2Fsherlock%2FShared%20Documents%2Fdatasets%2Fgovdocs1-small);
-- data from the NewsReader project (talk to Maarten or Janneke);
+- data from the NewsReader project (talk to ~~Maarten or Janneke~~ Jurriaan, I have a copy of the data);
 - in principle, any data set that has time annotations is interesting.
 
 ## some random ideas for things you can work on
