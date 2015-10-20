@@ -27,7 +27,7 @@ OR use the docker container with Caffe installed (CPU or GPU flavours). [CPU fla
     This will start the docker VM and map your local Sherlock directory to a Sherlock directory within docker. **Beware: all files generated from within the Docker VM will be owned by root!**
     * These should work without error:
     
-         `ipytnon`
+         `ipython`
 
          `import caffe`
          
