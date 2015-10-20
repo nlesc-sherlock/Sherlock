@@ -22,10 +22,10 @@ The visualization will likely be a timeline with events, with additional synchro
 ## data
 
 Examples of interesting data sets include (see [here](https://github.com/NLeSC/Sherlock/blob/master/organization/Datasets.md) for a more complete overview):
-- the [Enron data set](http://www.cs.cmu.edu/%7Eenron/enron_mail_20150507.tgz);
+- the [Enron data set](http://www.cs.cmu.edu/%7Eenron/enron_mail_20150507.tgz), see also [Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/Group.aspx?GroupId=6aad52c4-7dfc-4076-9772-4f9c9180bde2&AppId=Files&id=%2Fsites%2Fsherlock%2FShared%20Documents%2Fdatasets%2Fenron-plaintext) for a processed version;
 - Twitter; I already made a Python script that collects tweets using Python's [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) library ([here](https://github.com/jspaaks/twitgrab/));
 - disk images of mobile devices, harddisks (note: we've deciced not to use harddisk off of Marktplaats/eBay as that will quickly land us in a quagmire of ethical dillemas)
-- [GovDocs1](http://digitalcorpora.org/corp/files/govdocs1/); it may be easiest to download this to a new partition, make an image out of it, and then let Hansken process it;
+- [GovDocs1](http://digitalcorpora.org/corp/files/govdocs1/); ~~it may be easiest to download this to a new partition, make an image out of it, and then let Hansken process it~~ [disk image and Hansken JSON output are in the Sherlock OneDrive](https://nlesc.sharepoint.com/sites/sherlock/_layouts/15/Group.aspx?GroupId=6aad52c4-7dfc-4076-9772-4f9c9180bde2&AppId=Files&id=%2Fsites%2Fsherlock%2FShared%20Documents%2Fdatasets%2Fgovdocs1-small);
 - data from the NewsReader project (talk to Maarten or Janneke);
 - in principle, any data set that has time annotations is interesting.
 
