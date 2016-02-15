@@ -23,7 +23,7 @@
 - 9:00 Wakeup with coffee and cookies!
 - 9:30 Get to work!
 - 12:00 Lunch
-- 15:00 Coffee break 
+- 14:00 Coffee break 
 - 16:30 End of sprint report, demo session, lessons learned, plans for next sprint, etc.
 - 18:00-ish Dinner at NLeSC
 - 20:00-ish Closing
