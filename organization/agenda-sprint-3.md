@@ -8,7 +8,7 @@
 - 12:00 Lunch
 - 15:00 Coffee break 
 - 17:30-ish Closing
-- 
+ 
 ## Day 2 - Februari 17
 
 - 9:00 Wakeup with coffee and cookies!
