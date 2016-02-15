@@ -11,7 +11,7 @@
 - 
 ## Day 2 - Februari 17
 
-- 9:00 Wakeup with coffee and cake!
+- 9:00 Wakeup with coffee and cookies!
 - 9:30 Short progress presentation by each team
 - 10:15 Get to work!
 - 12:00 Lunch
@@ -20,7 +20,7 @@
 
 ## Day 3 - Februari 18
 
-- 9:00 Wakeup with coffee and cake!
+- 9:00 Wakeup with coffee and cookies!
 - 9:30 Get to work!
 - 12:00 Lunch
 - 15:00 Coffee break 
