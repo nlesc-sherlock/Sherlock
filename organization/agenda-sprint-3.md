@@ -7,7 +7,7 @@
 - 9:45 Get to work!
 - 12:00 Lunch
 - 15:00 Coffee break 
-- 17:30-ish Closing
+- 17:00-ish Closing
  
 ## Day 2 - Februari 17
 
