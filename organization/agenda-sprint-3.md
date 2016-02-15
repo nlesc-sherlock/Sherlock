@@ -26,4 +26,5 @@
 - 15:00 Coffee break 
 - 16:30 End of sprint report, demo session, lessons learned, plans for next sprint, etc.
 - 18:00-ish Dinner at NLeSC
-- 20:30 Closing
+- 20:00-ish Closing
+- ??:?? Movie time!
