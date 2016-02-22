@@ -148,3 +148,14 @@ Other Corpora
 
 * [long list of (mostly) open data sets](https://github.com/caesar0301/awesome-public-datasets)
 
+Tools
+-----
+
+Other forensic tools include:
+
+* [Sleuthkit](http://www.sleuthkit.org/)   
+
+Sleuthkit can be installed on ubuntu based distributions using:
+
+    sudo apt-get install sleuthkit
+
